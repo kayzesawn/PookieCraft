@@ -1,14 +1,6 @@
 {
     "version": "1.1.5",
     "files": {
-        "changelog - Copy.md": {
-            "hash": "ff50416291bdce331783c4657d257df9ad4a7d66",
-            "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/changelog%20-%20Copy.md"
-        },
-        "manifest2.json": {
-            "hash": "0804e062c497b7067be7561d01043035bbb3cc4c",
-            "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/manifest2.json"
-        },
         "config/accessories.json5": {
             "hash": "595250e91e123de26c7542be5042ea1aea5c2392",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/accessories.json5"
