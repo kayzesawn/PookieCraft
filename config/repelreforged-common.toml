@@ -1,0 +1,12 @@
+#Max Repel range (in blocks)
+# Default: 144
+# Range: 0 ~ 512
+maximum_repel_range = 144
+#Super Repel range (in blocks)
+# Default: 96
+# Range: 0 ~ 512
+super_repel_range = 96
+#Repel range (in blocks)
+# Default: 48
+# Range: 0 ~ 512
+repel_range = 48
