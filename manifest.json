@@ -10,31 +10,31 @@
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/manifest2.json"
         },
         "config/accessories.json5": {
-            "hash": "a6631fcadcf7e5f4d7b78c1e8f6301a352e9a7b9",
+            "hash": "595250e91e123de26c7542be5042ea1aea5c2392",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/accessories.json5"
         },
         "config/accessories_compat.json5": {
-            "hash": "8b760b6032eb3b5b00de155e3e2548d0a2a7a160",
+            "hash": "de7946bf3483a892caccbac8e4d165f4758f068b",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/accessories_compat.json5"
         },
         "config/ae2-client.toml": {
-            "hash": "04a879a5dcdac3f032d88777bb57fac9bf8ec24d",
+            "hash": "a391df31fd8d0fdc7e3f5d145c55a1037856b88f",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/ae2-client.toml"
         },
         "config/ae2-common.toml": {
-            "hash": "9b11515c40e070aa49b0bcdfe3431b6e626274a8",
+            "hash": "d35002751f4f8bb5818856ca4b7e9fd4ec84b760",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/ae2-common.toml"
         },
         "config/alloy_forgery.json5": {
-            "hash": "c87809d343fd2e432ee05e102bcb2e176e4df506",
+            "hash": "117d7118a60990763a81f810f50b3d9af5672b83",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/alloy_forgery.json5"
         },
         "config/amendments-client.toml": {
-            "hash": "42f398677235ee77c7c9233e801f868fb0cf8182",
+            "hash": "bac834de53d4ab3f40803eb911c85acf01a72957",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/amendments-client.toml"
         },
         "config/amendments-common.toml": {
-            "hash": "93d069452cb1dfe04f81f6f1d065fb5901955d71",
+            "hash": "3164eb418248c6755068df6db5fa87ddcda5c778",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/amendments-common.toml"
         },
         "config/animatica.properties": {
@@ -42,503 +42,503 @@
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/animatica.properties"
         },
         "config/appleskin-client.toml": {
-            "hash": "8f167f14bbd81163f78c5e3459dcffdb50225117",
+            "hash": "e3b64be4e4d635eaef5430a06d90a77600647477",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/appleskin-client.toml"
         },
         "config/authme.jsonc": {
-            "hash": "4c677997187a821c1822c64a7d78c5d4478bdcec",
+            "hash": "7602ff2544aa42305b86221344df3ebd8e7ae9cc",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/authme.jsonc"
         },
         "config/bakery-common.toml": {
-            "hash": "3c7888c2c1344499497a92585489c40b57d21dc5",
+            "hash": "4f897f90405b6640ad5458c707baf0f99bca77de",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/bakery-common.toml"
         },
         "config/barteringstation-client.toml": {
-            "hash": "61250eb048c6504b38e46d075e43f026c086f3da",
+            "hash": "6ccd1be36db270918b55b8d9c2d86c133b0adad9",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/barteringstation-client.toml"
         },
         "config/barteringstation-server.toml": {
-            "hash": "959f851099a0389b6f0836d16967f2f36ce20ffa",
+            "hash": "19b4378eee7ff1f539f0ef58b12fb8e5d1f2cb03",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/barteringstation-server.toml"
         },
         "config/bcc-common.toml": {
-            "hash": "fd10e2b726166ad81742d921d9e7d87c40895a41",
+            "hash": "88a2edc46586c7221a8de4f7ae68aa139ffeb95c",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/bcc-common.toml"
         },
         "config/beachparty-common.toml": {
-            "hash": "516de09b716af51aaf8ceb88382f4dbb1bfdd91d",
+            "hash": "0ed96c1e522d315f6a294f23fcc3a7098f7e3703",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/beachparty-common.toml"
         },
         "config/beautify-server.toml": {
-            "hash": "b15a361e68a44393a6c0c69689a6795595568c36",
+            "hash": "8ca49e95452eb2a5d792c81f2c4c75d32be7e8d2",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/beautify-server.toml"
         },
         "config/betterdeserttemples-neoforge-1_21.toml": {
-            "hash": "19403763939d1550752fbfd944a67b71771fa3f5",
+            "hash": "6ebf8ef02eb69875cd753aeb945951aeb4dd6c3a",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterdeserttemples-neoforge-1_21.toml"
         },
         "config/betterdungeons-neoforge-1_21.toml": {
-            "hash": "188a675e11bc7ebe44ba3b495b502b4e966c9bda",
+            "hash": "def824d803ac6e4bf71c5e1ee37d88e9dd389bf5",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterdungeons-neoforge-1_21.toml"
         },
         "config/betterendisland-neoforge-1_21.toml": {
-            "hash": "79be491edca159ceadf0b0cfbe904a10533e2dea",
+            "hash": "c1bad3b6be78c46e937cac995708ebad3c4487b4",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterendisland-neoforge-1_21.toml"
         },
         "config/betterfortresses-neoforge-1_21.toml": {
-            "hash": "629ed14a081edd760decfc14373fc5d40cbcf532",
+            "hash": "56fa556f917e638d508d1f0ee4dae90fdf2c60ae",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterfortresses-neoforge-1_21.toml"
         },
         "config/betterjungletemples-neoforge-1_21.toml": {
-            "hash": "268d576840536ec1098c7c0902622c4c6dea99a7",
+            "hash": "01fcf1837158eec0e2b83420df2dc55c74a32f9f",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterjungletemples-neoforge-1_21.toml"
         },
         "config/bettermineshafts-neoforge-1_21.toml": {
-            "hash": "34a379b8db169b68ccd47cc568392b0e984877ea",
+            "hash": "1c62044c3b707a9b38805418ad253d276a4ccf15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/bettermineshafts-neoforge-1_21.toml"
         },
         "config/betterstrongholds-neoforge-1_21.toml": {
-            "hash": "9a344f54f80a0f1437e542e4b7b39deef89c3aed",
+            "hash": "961f5166556ed2b2459e261f92daab38b7685945",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterstrongholds-neoforge-1_21.toml"
         },
         "config/betterthirdperson-common.toml": {
-            "hash": "86774c511b59294d8008f5ade4955d697a9263e5",
+            "hash": "1da6da7104fb73756956730440cc348fb14710ec",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterthirdperson-common.toml"
         },
         "config/betterwitchhuts-neoforge-1_21.toml": {
-            "hash": "aa452838ef75b6d75ffecb24eff1981c9731c23e",
+            "hash": "ea23b6d2ef7087a8b2d58e7b224cadee36063df5",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterwitchhuts-neoforge-1_21.toml"
         },
         "config/buildinggadgets2-common.toml": {
-            "hash": "b9c40f836852806e2954e93d0a992cf3ebc38a40",
+            "hash": "25852a702b90ce7c3df3c449632369d322848dc6",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/buildinggadgets2-common.toml"
         },
         "config/bwncr-common.toml": {
-            "hash": "5ffdd9ee57a9b8d9fa0e81e34545c574874913b8",
+            "hash": "76fd9bd0f354d033e2eff22a1c0f0bdc307b029b",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/bwncr-common.toml"
         },
         "config/c2me.toml": {
-            "hash": "d7dac32837986e7c237b0d0bbfc10dc684e64aec",
+            "hash": "5eac5c77d79c4b8bd768a213759adadb268cafb7",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/c2me.toml"
         },
         "config/capture_xp.json": {
-            "hash": "ed90cd52dd97f3d3ec1c4ee4c31195e4b1d4c811",
+            "hash": "b544317a058d2e74c12328fa8b33d92f3fc110c8",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/capture_xp.json"
         },
         "config/cardinal-components-api.properties": {
-            "hash": "4ea2c4b8d127dc7d7d03c3de2aededdb5eacad60",
+            "hash": "0034d877ec2ea3155efaf54db8549db1e094f003",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/cardinal-components-api.properties"
         },
         "config/carryon-client.toml": {
-            "hash": "1fd6cec44704488ae7d2ab31425b6eb88ef3ce9c",
+            "hash": "ff6614d0d7c644a2024814ac63538e5bb3a307a0",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/carryon-client.toml"
         },
         "config/carryon-common.toml": {
-            "hash": "44ae2a87bcaccff14350bb25060b777fa5bc4418",
+            "hash": "fc6e691fba08eb3f5e209fdae0b7718c72999046",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/carryon-common.toml"
         },
         "config/cerulean-client.toml": {
-            "hash": "f33cac05c4ed4d860591105d14f7e96368b8b06d",
+            "hash": "43a7df8e8b144984030d292e6dd6b3c8153dbf2e",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/cerulean-client.toml"
         },
         "config/cerulean-common.toml": {
-            "hash": "341d4e99ce2958b4ea47de50a22ca69f08d88e7e",
+            "hash": "f77dacf0a9a87f50a7916c24fd209d385b43d3ea",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/cerulean-common.toml"
         },
         "config/cerulean-server.toml": {
-            "hash": "2444d69e351aa4f95b0504884497a9881d0872fa",
+            "hash": "846521d8c9e40bd4341c961f00f024dd66eccccc",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/cerulean-server.toml"
         },
         "config/cerulean.yml": {
-            "hash": "6a2ef6f6ffe935acb7673b90c719036e9c9e1c56",
+            "hash": "2b5c712cf64cf140e33c32776770984208a19887",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/cerulean.yml"
         },
         "config/chalk-client.toml": {
-            "hash": "45f18a61327dc3570ed96ba493d147bce087182a",
+            "hash": "2a361a15bb6c4179c35edddc5bbdd68ae2a6c0e7",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/chalk-client.toml"
         },
         "config/chalk-common.toml": {
-            "hash": "f830c4e4d17bb9daedaa1202bb99626f9b9af0a0",
+            "hash": "9392b5d8bc3d976259e1865d243f353eaf077505",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/chalk-common.toml"
         },
         "config/charmofundying-server.toml": {
-            "hash": "53f90c9de27680680f657ec7eb545979f2ecfdd8",
+            "hash": "14d510e75b48ce2b0bf2e7f6ce2541268faf1c93",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/charmofundying-server.toml"
         },
         "config/chefsdelight-common.toml": {
-            "hash": "92695eac2ad35123e7fc6e1ea65fb23b71d66354",
+            "hash": "f5726339819a3d7a268a5f402f3e622421dff9fd",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/chefsdelight-common.toml"
         },
         "config/chunkactivitytracker-server.toml": {
-            "hash": "40e2d00855f5e2ab6d931469ad2f7b8c41dcd247",
+            "hash": "2b947a3f4acc423f64d673d6f75d1d30e9091158",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/chunkactivitytracker-server.toml"
         },
         "config/clickadv.json": {
-            "hash": "c6355d79b9a001eac0f84a044b959b51a85172f1",
+            "hash": "24106d082b19249f8ae806e8ff98e437de585cc2",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/clickadv.json"
         },
         "config/cluttered-common.toml": {
-            "hash": "483cdac782df9f8ff8b6be564ec8b93f58f32600",
+            "hash": "e871e5e7bbf874da4902d53a248c4d2388a5f64c",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/cluttered-common.toml"
         },
         "config/cobbleit-client.toml": {
-            "hash": "6d9beaf3fdf0b59e18e10c955ed79724fa8d386f",
+            "hash": "db4ddfeee301100b8d4b79c90044648524db90c4",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/cobbleit-client.toml"
         },
         "config/cobblemonpokemonbadges-common.toml": {
-            "hash": "554cdc93f5732893379f14780ae6fdefd5f27f5a",
+            "hash": "17e890fc88d69a0572342bb9d13292f24e2629ce",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/cobblemonpokemonbadges-common.toml"
         },
         "config/comforts-common.toml": {
-            "hash": "9f35d6dfdcbc8773d8a057bffbfac5c8d9ed1b0a",
+            "hash": "a29e58f68685f01f8c6d98e436f13fe0e7c492df",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/comforts-common.toml"
         },
         "config/comforts-server.toml": {
-            "hash": "28ab4c7c925eff47d552dc3ef7eb404ddfc6336f",
+            "hash": "6469c2cf767bc919a764df4c95dfecb8b9987b07",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/comforts-server.toml"
         },
         "config/connectivity.json": {
-            "hash": "3082482a55a5ce4fdf7bf7174efb42cac1172c3b",
+            "hash": "01642aa5d1cfa2b78dffe74e044154fcbb8f2c3e",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/connectivity.json"
         },
         "config/connector.json": {
-            "hash": "05fb96363dd6ace1a96ea9e4aae59dbb1f9d0cab",
+            "hash": "de7faf7cefdc6be41a7a828c2d39f15517cf58c0",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/connector.json"
         },
         "config/connectorextras_energy_bridge-common.toml": {
-            "hash": "2bc47e21c3658743704997bd95d87779abcd7ca9",
+            "hash": "d56630f8b51c1b44be140fa41bf3a0454f700ef4",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/connectorextras_energy_bridge-common.toml"
         },
         "config/continuity.json": {
-            "hash": "b299395303bbb006660ce708b02cad292a0c8121",
+            "hash": "dcd61957c3ede67c890235ee6615d0f0945118cd",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/continuity.json"
         },
         "config/controlify.json": {
-            "hash": "f3150ff3727653c15b13a55f660a26cf0428a097",
+            "hash": "c5fe39c54ac77fc04dca3dc0e2608a155731877b",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/controlify.json"
         },
         "config/create-client.toml": {
-            "hash": "9dec74b874e6080524024919eab3ea2b6cbae6fc",
+            "hash": "b28ac43107f6dc6d665a7432ec54b47411041f0e",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/create-client.toml"
         },
         "config/create-common.toml": {
-            "hash": "eeb60a2bebe041d74118246f0353028f23c82242",
+            "hash": "62ed6cc65a2043b7ddc4cb4f7c4f1d42855293de",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/create-common.toml"
         },
         "config/create-server.toml": {
-            "hash": "51dc256b8bff3cd4e24946fd7721c1b44179a2ba",
+            "hash": "5c7c7ae107be9f0d46138a99e3142af89314b56f",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/create-server.toml"
         },
         "config/crittersandcompanions-common.toml": {
-            "hash": "ee984f772f50674fe66e110e567a9246e8fe95b4",
+            "hash": "23c1e87962f1d21dc5fb90675101df71c7ab5c4b",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/crittersandcompanions-common.toml"
         },
         "config/cubes_without_borders.json": {
-            "hash": "9c68105e9dcd79a405842bee36eb4f6ae90ab741",
+            "hash": "bc3525948e1918ef86ea56f187d6cd58ba08ba17",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/cubes_without_borders.json"
         },
         "config/cupboard.json": {
-            "hash": "6a45b1470818d4cc0510d1d561857513ae1f29df",
+            "hash": "cfa60cb9fc1260b3c92e2eb08ac7e0d4d13274f5",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/cupboard.json"
         },
         "config/curios-client.toml": {
-            "hash": "7e66e02fbf04b28e7de60c4e675d2b5168be5ec6",
+            "hash": "369717e89c75b58c3064fc0d1a408c60e9f17070",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/curios-client.toml"
         },
         "config/curios-common.toml": {
-            "hash": "2805359d4ad1ce08ef52cc73f84a96dafdc41024",
+            "hash": "315972fac2e0ad7fb6bbc9f945b05eef57e92cd7",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/curios-common.toml"
         },
         "config/curios-server.toml": {
-            "hash": "8ccde45d5edd3767324231935fe07ac2318a0eb5",
+            "hash": "81d93eedbe298af8dbc0f41ddf930563de3ed98d",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/curios-server.toml"
         },
         "config/defaultoptions-common.toml": {
-            "hash": "40542f574cd1478baaa78036cbaf8b385cf11e8f",
+            "hash": "9b1d3649e7188a623d0214bb8212df5d279ae2c7",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/defaultoptions-common.toml"
         },
         "config/despawntweaks-common.toml": {
-            "hash": "78d79a96e755353ebf68c6fd0d8c5e53e886ae75",
+            "hash": "798d3193f56bcbd3b534fbba43a7aa9273e9c35f",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/despawntweaks-common.toml"
         },
         "config/deuf_refabricated.json": {
-            "hash": "6718cdc92416b86132c19d60b78b81a5be475c3e",
+            "hash": "f869e3adf35227c3403fbbd5bc0bfb31297d559d",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/deuf_refabricated.json"
         },
         "config/DistantHorizons.toml": {
-            "hash": "714b8c3e0d8617383d4ccafdf665c4df4e9d1f41",
+            "hash": "e6068d72ecad666e6a0b240ad5bce5c764f4cebd",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/DistantHorizons.toml"
         },
         "config/distraction_free_recipes-client.toml": {
-            "hash": "be6890e40463fda33ed277a0a631d66dcd6d344d",
+            "hash": "82ec86f51c280f9d2601936cac57a5711b6cf2c4",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/distraction_free_recipes-client.toml"
         },
         "config/does_it_tick-common.toml": {
-            "hash": "6bb0ee934e26e8c15d13472be54d9ace38d0c608",
+            "hash": "7a3f282c57e546464b54d617104e3e0c9744bb2a",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/does_it_tick-common.toml"
         },
         "config/dragonfight.json": {
-            "hash": "fc2aa7b6be8f7cd82bbc9198856cd276cfbf3f43",
+            "hash": "321a55a969ee6f89336848f959a8e92e81ff5bc9",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/dragonfight.json"
         },
         "config/durabilitytooltip-common.toml": {
-            "hash": "018564d5bfa1d4eaf93529ac4c240647e24fb119",
+            "hash": "b3f236bff5547a93332369ef09abfc6b0557ec82",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/durabilitytooltip-common.toml"
         },
         "config/easyanvils-client.toml": {
-            "hash": "a52e859e917a3a1bdaf787a2652b0e29450b267d",
+            "hash": "9f072e4960f0825e310f480dea8ab248c2fd0a67",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/easyanvils-client.toml"
         },
         "config/easyanvils-common.toml": {
-            "hash": "d62d58edf018d46a10c18a3ac6973ef92565b1ca",
+            "hash": "c63899776daa3ce2081eb4e93c196964053a2f55",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/easyanvils-common.toml"
         },
         "config/easyanvils-server.toml": {
-            "hash": "227e92ffd571229efc6aaaf373f0e563f218af0e",
+            "hash": "cabd9ce8bda8922e1238e5c665f9a2edc6915a00",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/easyanvils-server.toml"
         },
         "config/easymagic-client.toml": {
-            "hash": "d015d2bda824e1ec4f3e848a5e3353419d1e9fc7",
+            "hash": "325569092658e297f506e2f6c656ba478a9cca88",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/easymagic-client.toml"
         },
         "config/easymagic-common.toml": {
-            "hash": "35df970d29e11807bdb05f8ce9ebc6cef49857f9",
+            "hash": "76a30c95227508e270fc1ed3fa39fe2a0a915b09",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/easymagic-common.toml"
         },
         "config/easymagic-server.toml": {
-            "hash": "80cf82cd2952339cb515382f27ce5daaf1517128",
+            "hash": "ddcccbeb75e8de7c23d3be012d2f947491c88596",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/easymagic-server.toml"
         },
         "config/effortless-client.toml": {
-            "hash": "de02f468677fbeeea4a22f2d9ee4f0a32d24d45a",
+            "hash": "ebda2f49e84e3326abe034175112397d51aad44a",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/effortless-client.toml"
         },
         "config/emi.css": {
-            "hash": "89ad3c2544c87340e9e7036428049cd1ebe84cbb",
+            "hash": "7c5135a0715e70e022a3b7347702375acb1d00cb",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/emi.css"
         },
         "config/emi_loot_config.toml": {
-            "hash": "9277953c28ba86260752ebad38691fe9b71204ac",
+            "hash": "409cac0dd0714fd80180c9334724538ce9d179d6",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/emi_loot_config.toml"
         },
         "config/emi_ores-client.json": {
-            "hash": "404a8087ab1ee90e9aee57fa5b046b92e0165664",
+            "hash": "86ca7f545b6c7a8d91b932173f513e3d5b04d145",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/emi_ores-client.json"
         },
         "config/ends_delight-common.toml": {
-            "hash": "79b9f3ea0ec60c8a158120b743c834c69eae9647",
+            "hash": "7ce9a92108bfe6e449e59767e47d98d23fbd466e",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/ends_delight-common.toml"
         },
         "config/entityculling.json": {
-            "hash": "27a3c865651025b947e0cad220d06aee6daba753",
+            "hash": "d61877c33f48dfceaf2991fe8987bd7c946e4345",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/entityculling.json"
         },
         "config/entity_model_features.json": {
-            "hash": "3d9e9d426e04e04239cbb5fdcc9bde683b1b0933",
+            "hash": "8e36d72b6895ef7ca39a363606a08aac25eedf3a",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/entity_model_features.json"
         },
         "config/entity_texture_features.json": {
-            "hash": "9307ca0c977c573a2712d65470b485d8ca5c1ae0",
+            "hash": "907d2d2c52d47b4f41ee991ba9692ad1bb667da0",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/entity_texture_features.json"
         },
         "config/etf_warnings.json": {
-            "hash": "2d6a1e3af0146eb45f7b0cd208998419f31c9edd",
+            "hash": "1573fc320a363b30a1a5e4cae1d4596ec177085d",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/etf_warnings.json"
         },
         "config/euphoria_patcher.properties": {
-            "hash": "d9e1cbdb83fb7170884a28a8912d5dc0419c8f56",
+            "hash": "f693f6eb3f76fd9ebda0e288ea9e4707dbe9276a",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/euphoria_patcher.properties"
         },
         "config/everycomp-client.toml": {
-            "hash": "ed6893fb7c7bddfc02371389fe72b12f107b674f",
+            "hash": "83e34bc92f8a523e291b7cad408560fee4ca3cf6",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/everycomp-client.toml"
         },
         "config/everycomp-common.toml": {
-            "hash": "835945e28c16801e132f25d97cbb642dfad6b6cc",
+            "hash": "17af76b9efd74aa5015770776e677ac46542a1a4",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/everycomp-common.toml"
         },
         "config/everycomp-entries-1.toml.bak": {
-            "hash": "727302ee96c038c93573b1781e0384088f4f4501",
+            "hash": "a0f287b1923f0fedccd57e061da0715c7a3ad6e1",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/everycomp-entries-1.toml.bak"
         },
         "config/everycomp-entries-2.toml.bak": {
-            "hash": "02104935c3dedb74c3101f91ed1f5c3fdfbb713f",
+            "hash": "b14cfed61b6af02020bc8864667f84cf803075d1",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/everycomp-entries-2.toml.bak"
         },
         "config/everycomp-entries.toml": {
-            "hash": "7ee5f87a1c32da20197dbf089746c9131fe7f90a",
+            "hash": "299992ea2b2d993dfeb41c9c00a41b7f86beb86a",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/everycomp-entries.toml"
         },
         "config/everycomp-hazardous.toml": {
-            "hash": "a4bb6db908bad0da3c9cf7a45792f2327f51eda9",
+            "hash": "22cd814ec7db8cb700b98ea7a2e3e822bb5d7f2b",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/everycomp-hazardous.toml"
         },
         "config/explorerscompass-client.toml": {
-            "hash": "b2ccdb787003f339e668f98bca79e88dc41ee290",
+            "hash": "2be0451eeee1d802742387c2990394b2aed3db45",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/explorerscompass-client.toml"
         },
         "config/explorerscompass-common.toml": {
-            "hash": "b1f4de99ca99ae13d19f9ce8afa188453b0d140e",
+            "hash": "78bfc593d5cbeaa404d3bd6a3128afb7b4cb94de",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/explorerscompass-common.toml"
         },
         "config/exposure-client.toml": {
-            "hash": "93d15e9ba90e4defc32359b0804b7b4955eb1c61",
+            "hash": "a837458cfe83ae75a46034f4547ded6845d87eb4",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/exposure-client.toml"
         },
         "config/exposure-common.toml": {
-            "hash": "80459d7cb71ad169906fd8b3b1b4ba26ea527f2b",
+            "hash": "403cc66232153f39ff35d6c420fbe77d99f61c7f",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/exposure-common.toml"
         },
         "config/exposure-server.toml": {
-            "hash": "25eed9500f4dbe74e36667975f2f44c98ac0e222",
+            "hash": "caf8c717995367850ecee88d695a8807d71f0bad",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/exposure-server.toml"
         },
         "config/exposure_polaroid-client.toml": {
-            "hash": "0b273c813ee5d12f6c856f0ca377bda2a595c008",
+            "hash": "42e6de44a042685088fb3fab9ecf640473eea61e",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/exposure_polaroid-client.toml"
         },
         "config/exposure_polaroid-server.toml": {
-            "hash": "71939e2237151c022d320da853eada47be97db91",
+            "hash": "efdd5b20d949c8162f42744939ec4b6e3c0e55dc",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/exposure_polaroid-server.toml"
         },
         "config/fabrishot.properties": {
-            "hash": "0732cc667c8c273bcbbfd7f835e5a415aa561fc0",
+            "hash": "cf614f726ca467fe08a417252d425e667ccf52c9",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/fabrishot.properties"
         },
         "config/farmersdelight-client.toml": {
-            "hash": "922ef1cdf87795d0134ca8c0c4b1a9eb290f0ec6",
+            "hash": "b305bfd98921c359369acef3e14e93d80e51fcd9",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/farmersdelight-client.toml"
         },
         "config/farmersdelight-common.toml": {
-            "hash": "79ac5a884c5d7723811457ff4125c03c45ec0374",
+            "hash": "5c42228268a31a028c8a75d7bd2696ac88f5979e",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/farmersdelight-common.toml"
         },
         "config/farm_and_charm-common.toml": {
-            "hash": "50825f02473d59187bb650ba381613c213150079",
+            "hash": "608ac50f41d28511c4fef7db182535385e88bd16",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/farm_and_charm-common.toml"
         },
         "config/fastpaintings-common.toml": {
-            "hash": "648548c614ca73f4e61e70f9a2f84186f368c5c8",
+            "hash": "d44ad2ff67af8d288edec8d99acb0045a518e088",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/fastpaintings-common.toml"
         },
         "config/ferritecore-mixin.toml": {
-            "hash": "f1d902da8fd367060ea93e96dedc85f6d0a3dff5",
+            "hash": "6acf6404a616058222e9a2fd6ea2ffc22c693ca8",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/ferritecore-mixin.toml"
         },
         "config/fightorflight.json5": {
-            "hash": "19911fa8e9bbc93525d21dfa7bd3c9c576c5efe8",
+            "hash": "6508acfd8447de09ad6deb811e7c2d1bb54b5e53",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/fightorflight.json5"
         },
         "config/fightorflight_moves.json5": {
-            "hash": "f72de35b31f9a1658d9c53736750ebb036665421",
+            "hash": "5fa80f7b56af3fc6604ec959b6a139c00eb4afbf",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/fightorflight_moves.json5"
         },
         "config/fightorflight_visual_effect.json5": {
-            "hash": "2a82ca83fddf185d7b97cbf6265a798dc56df195",
+            "hash": "84a548a6d0601891d1c9d1bb8be829421b2c56da",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/fightorflight_visual_effect.json5"
         },
         "config/flywheel-client.toml": {
-            "hash": "dd39870cdb4ca33168860af5f83f5366c0402d19",
+            "hash": "f0a10a5d8ae28915af6995bee1398768b85eb788",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/flywheel-client.toml"
         },
         "config/fml.toml": {
-            "hash": "9fca24533100755c12e7d1a82f8c524d0a163ff6",
+            "hash": "5448b202d300702f6b654b522bbd2c39743702c0",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/fml.toml"
         },
         "config/friendsandfoes.json": {
-            "hash": "afbe65025c8c948977af2d30c16c2d30b8fada2c",
+            "hash": "23e88293f74b9574e2c0a19faddd609436b6de71",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/friendsandfoes.json"
         },
         "config/ftbchunks-client.snbt": {
-            "hash": "67c5b76270043e38bcaa0e8bfdd004e2b9ea1642",
+            "hash": "9189e7c0f7920f5cc4b5d3df96199c64472ea0d4",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/ftbchunks-client.snbt"
         },
         "config/ftbchunks-world.snbt": {
-            "hash": "71a56bca86787024adc9a788d48f36ea5bd9b6d6",
+            "hash": "a0232d2694c9248234f8920d1fb813b8b7e7cd9d",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/ftbchunks-world.snbt"
         },
         "config/ftbessentials.snbt": {
-            "hash": "e89c40ca6663134619b2d040a7355ce0c3dc5c2e",
+            "hash": "43ca722c05da927439e2732630ebeec83d4f58cd",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/ftbessentials.snbt"
         },
         "config/ftblibrary-client.snbt": {
-            "hash": "506e4bbe1bd98e36ceea847d569522406d904a7a",
+            "hash": "9005f9e1e776d39805cd44ae02d6df9368e7e4bf",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/ftblibrary-client.snbt"
         },
         "config/ftbquests-client.snbt": {
-            "hash": "30c1716e8a9060a6591c1b1e80fc879f5e554c2d",
+            "hash": "e84dc655eabc79368746d57852016369cac8518c",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/ftbquests-client.snbt"
         },
         "config/ftbultimine-client.snbt": {
-            "hash": "81f4bc2ea61f2d18d87af6ace2cb7b1ed70227e7",
+            "hash": "1a968af696a26c52d39bed5069dc807f2ae417be",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/ftbultimine-client.snbt"
         },
         "config/ftbultimine-server.snbt": {
-            "hash": "80a974f49f182ade2dae084be1354a3a18af1141",
+            "hash": "f1ce3368dedd8c1f2b186e81f2526793ef12770d",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/ftbultimine-server.snbt"
         },
         "config/ftbxmodcompat.snbt": {
-            "hash": "f85f3c3d34fe0e8d66744d4d0b9fbf597ba655c4",
+            "hash": "ea57f6b86a3552b8f10a30e1ed12077b6e80a0b7",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/ftbxmodcompat.snbt"
         },
         "config/getittogetherdrops-server.toml": {
-            "hash": "9ab2dfb5069d111b7af8d067d22814dfed2cbf58",
+            "hash": "b85abab139eda3b8afc42094768daa1be3889751",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/getittogetherdrops-server.toml"
         },
         "config/ghosts.toml": {
-            "hash": "5a1363367510f57381f80afefe4381bdda12d2a2",
+            "hash": "40b65722bcc942abee6d60c1dcd919f5fb8e254a",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/ghosts.toml"
         },
         "config/global_packs.toml": {
-            "hash": "8c993c997dd419811e399eb8825fb894f15976e4",
+            "hash": "9587e77b1d388801cef80bbde5e968fe0d463b34",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/global_packs.toml"
         },
         "config/guideme.toml": {
-            "hash": "c0b1b4f3313f0ece50506999f92f2840348e202e",
+            "hash": "8a311cab983d7ea0ebdc1566ec885c17c7f11f93",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/guideme.toml"
         },
         "config/herbalbrews-common.toml": {
-            "hash": "ba6583e0cf356c6d96a5947fdf1aaa1536a86edd",
+            "hash": "85b7dffadc209a029703b772b4b143fc83472835",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/herbalbrews-common.toml"
         },
         "config/horseexpert-client.toml": {
-            "hash": "e2fe71c2e4f9804e17b4d9aa9a30834bba36d9c4",
+            "hash": "f577df926113194c53e7706160ecf8c679e6599b",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/horseexpert-client.toml"
         },
         "config/horseman-client.toml": {
-            "hash": "37c3db6a0669e3d609572d5f9e655a6552ca87d1",
+            "hash": "cf5eb8615dc05a67454fe6decaa3260311657d78",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/horseman-client.toml"
         },
         "config/horseman-common.toml": {
-            "hash": "30f9c935a70a6506a9e2bb7d3ca9a7de733f909d",
+            "hash": "89d802d88826d9fbc408296027a993329a03f02f",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/horseman-common.toml"
         },
         "config/horseman-server.toml": {
-            "hash": "bdfab1b66665e7d37995f1f0d09efe2b7f1e9a08",
+            "hash": "0be4639fb284ef8a1852d0846e9f70a3dc012da7",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/horseman-server.toml"
         },
         "config/icarus.jsonc": {
-            "hash": "f9f1b6651f2383d3fc3a34141ea539bd9aa7f0e7",
+            "hash": "51d16b46c27704113d6d3ca850e2b5f79eb00b90",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/icarus.jsonc"
         },
         "config/idwtialsimmoedm.json": {
-            "hash": "67974d6e61e2b631efce9a249481ee274e768b62",
+            "hash": "f43cb25f5eeae7a51ceaf8ee748dfa7f7db277e4",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/idwtialsimmoedm.json"
         },
         "config/illagerinvasion-server.toml": {
-            "hash": "f81c06e47b8d148cf120bd9b5a88114f4d4fea81",
+            "hash": "7c01faf9b5ab67b5fc8d20fc05cd17b398f2f096",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/illagerinvasion-server.toml"
         },
         "config/immediatelyfast.json": {
-            "hash": "f1024c0b575ff852c12b8ffe01169188755dd0b6",
+            "hash": "adcb21b0ad5f7f1c124517ff64fc701a737e4ea1",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/immediatelyfast.json"
         },
         "config/immersivelanterns-client.toml": {
-            "hash": "76d3ca3b9260bdb18432f818ec59d39718ffb833",
+            "hash": "83013ac7bd98519e9a3c0abb895cf335697d7aac",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/immersivelanterns-client.toml"
         },
         "config/immersive_armors.json": {
-            "hash": "68d64c3b177e1757c9eb78331d8b513e2d4fedc0",
+            "hash": "4713be023a32017f1e383213e65d6e6fc380f106",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/immersive_armors.json"
         },
         "config/iris-excluded.json": {
@@ -546,223 +546,223 @@
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/iris-excluded.json"
         },
         "config/iris.properties": {
-            "hash": "b2534103d3c603e2d3c83264a76c44719de5963d",
+            "hash": "e31e2ef34d384bae6a5a3b08832af0457fa98562",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/iris.properties"
         },
         "config/itemcollectors-common.toml": {
-            "hash": "d8d181ff7045f96dec22edce05f97ba0a4baab96",
+            "hash": "26774a3190d3323fe8cbb9e828a4fb5433f629a5",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/itemcollectors-common.toml"
         },
         "config/iteminteractions-client.toml": {
-            "hash": "7db80eae2de47970b9686c1bae813361a20b528f",
+            "hash": "f0a38cbcde79371d68f971aaf61e8deeb62671ad",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/iteminteractions-client.toml"
         },
         "config/iteminteractions-server.toml": {
-            "hash": "bf3be8c6ce037e81aed87907a0515c51a2c04846",
+            "hash": "8fba87a1b9c4529f3a38a7b2efea01358bd57cae",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/iteminteractions-server.toml"
         },
         "config/jumpoverfences-client.toml": {
-            "hash": "0cb1fd156d332e178313116d1d028902b8d8bd57",
+            "hash": "ae928a7e90434fa6efb79a9657cd23675a4a7875",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/jumpoverfences-client.toml"
         },
         "config/lambdynlights.toml": {
-            "hash": "50d9065913025419b34ad223bb29a8187308a2b0",
+            "hash": "f1802304ca2baab1cf4018c25267c203846fe7c2",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/lambdynlights.toml"
         },
         "config/leavemybarsalone-client.toml": {
-            "hash": "4e4dcafe37b8550ef0e1e138d44d793c97101741",
+            "hash": "c825a5ec7508ecef3435931935112a0f07981c08",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/leavemybarsalone-client.toml"
         },
         "config/leavesbegone-server.toml": {
-            "hash": "a43b30e6b300efc280eaeaed4356b5d509ad7c98",
+            "hash": "30c81e80ddc26e087acb20b397df58941a04d084",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/leavesbegone-server.toml"
         },
         "config/lithium.properties": {
-            "hash": "bca60b39173f5763c319727d2ea0ecadb101e0fa",
+            "hash": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/lithium.properties"
         },
         "config/lmft.json": {
-            "hash": "2ad6b5066299155e77292df39dfb3d1d99035e64",
+            "hash": "cc01fc9b9cfe79c57a1e65ac2f9915834fe446fe",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/lmft.json"
         },
         "config/logbegone.json": {
-            "hash": "df5d1f4a1ffed9f5ca94cc59662fd808bdb1fda3",
+            "hash": "1e70d4109e8afbadf0bd75ff368dc11dee9ac1b4",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/logbegone.json"
         },
         "config/lootintegrations.json": {
-            "hash": "926e9c5ee62224b6123bd8598762a2367a52952d",
+            "hash": "0f57905bc951c9c803e733d574232a015bc5f42b",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/lootintegrations.json"
         },
         "config/lootr-client.toml": {
-            "hash": "9ac3da3968f70811181d9070e2615b5e07355745",
+            "hash": "7af148af4b64591bcf313d05773fbbbac96c3395",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/lootr-client.toml"
         },
         "config/lootr-common.toml": {
-            "hash": "ce94774b91f9b469d769b989680e4a74c0d12347",
+            "hash": "bfad2a47aeffff5df6a22c62d5f4cf5958f404f9",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/lootr-common.toml"
         },
         "config/midnightlib.json": {
-            "hash": "b8aeb1a7bab83c8b84ccd431af4ef9fd24d53fbc",
+            "hash": "ef717d24a45baf1406cd1c5600b176cb8b3cb2db",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/midnightlib.json"
         },
         "config/mighty_mail.server.toml": {
-            "hash": "d54eebce4e7d3c3aee204d71d84581d2ad6fb0b6",
+            "hash": "fb6ebc4e2daa9e320e057029fa732b97434f5326",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/mighty_mail.server.toml"
         },
         "config/modelfix-client.toml": {
-            "hash": "1b30c811223251945b8593ecaa431f0c65fd9e3c",
+            "hash": "e5dbd8ee9d534eb28c70b8e56a45baa33f15f1d5",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/modelfix-client.toml"
         },
         "config/modernfix-common.toml": {
-            "hash": "84439141a9dbc2f96212967ea8437d420d8d9c8e",
+            "hash": "67d29a1db4c6d7d97b4912e5ef3aae34347d3e38",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/modernfix-common.toml"
         },
         "config/modernfix-mixins.properties": {
-            "hash": "05fcc9a63c4757b0a9a520c5a5179560a23f690f",
+            "hash": "3fc47beb69707ea151dbde5122c3a298fce7a20d",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/modernfix-mixins.properties"
         },
         "config/moonlight-client.toml": {
-            "hash": "b526f2443c89773338e2b1076d7ebf6eaf0e810a",
+            "hash": "2f6b7a2facbab0e4fcc75078011445fa220c393e",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/moonlight-client.toml"
         },
         "config/moonlight-common.toml": {
-            "hash": "f33a233c903b0a4add71d23e6c246a7c351da6e2",
+            "hash": "ba6fd3e9ef7a5595c62e92808eefd5020a1ac28c",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/moonlight-common.toml"
         },
         "config/MouseTweaks.cfg": {
-            "hash": "b07180269529a52fe4dc3b448d8314d38776750d",
+            "hash": "651b3e4db2d430dc1da3566b2984b264061a6794",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/MouseTweaks.cfg"
         },
         "config/mythicmetals-config.json5": {
-            "hash": "ede822fc4a9a9e305762277ac813de6511b9dca4",
+            "hash": "9c20e7f810869b23ed36868cd057cfc46b063eb7",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/mythicmetals-config.json5"
         },
         "config/naturescompass-client.toml": {
-            "hash": "18a1ac2e9777023e5c050d94f15d9b173671b547",
+            "hash": "7866ee9ddbaeae44fd565c8af13f9a2f1b3e4efc",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/naturescompass-client.toml"
         },
         "config/naturescompass-common.toml": {
-            "hash": "3ef501ae3d2cb5e9afadbd378fbfc4fedc629ff7",
+            "hash": "252934a811e4d2a2a911ebda6907c390c9b7c6e2",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/naturescompass-common.toml"
         },
         "config/neoforge-client.toml": {
-            "hash": "b51515abb0c65a891514baffb4c78d2357ecd1ed",
+            "hash": "90754349a7bc416f9242df9a24b821d8beccc15d",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/neoforge-client.toml"
         },
         "config/neoforge-common.toml": {
-            "hash": "6b10e4debbf06a33453f4e0ffb80281ff0752f9f",
+            "hash": "2912b55694531e5ab90981a12f1844439d969e04",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/neoforge-common.toml"
         },
         "config/neoforge-server.toml": {
-            "hash": "536538f1f29efb49318318113530bd4fd74c235b",
+            "hash": "6e589499975366719134967e8ad049ee10d8caac",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/neoforge-server.toml"
         },
         "config/neo_language_reload.json": {
-            "hash": "e8af175bb467390de210c060305bb20750fcdcca",
+            "hash": "aaf60b026c933a7de97e82713a705fa3e3ef40fa",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/neo_language_reload.json"
         },
         "config/neruina.json": {
-            "hash": "0d001de0ef7ee78cbaa2bb069d76cdb2bbc1d8fe",
+            "hash": "4d59ad700545835511a161b03ed11613ea8f8919",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/neruina.json"
         },
         "config/notenoughanimations.json": {
-            "hash": "14033a715d965ba82c019adea6f5b0ec5a423279",
+            "hash": "ebdf68aa77c9ece4b85dcb7930476786558cb72e",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/notenoughanimations.json"
         },
         "config/openpartiesandclaims-server.toml": {
-            "hash": "e74e0327c006eef1fb7630a15f515a26f20d20f2",
+            "hash": "8a17d956b600f0d1626212d4e41a2f1cafbbfb24",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/openpartiesandclaims-server.toml"
         },
         "config/overflowingbars-client.toml": {
-            "hash": "8077fcccf2199bc84d3a6b7c39679220ed4dc277",
+            "hash": "7e35910ddad4b265e6356124d900b693ab46006d",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/overflowingbars-client.toml"
         },
         "config/packetfixer.properties": {
-            "hash": "09c5d8db249599518c04e10bda4b47f6258bd219",
+            "hash": "5ddfe329793d16848d091049d99536c64f8d3f5c",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/packetfixer.properties"
         },
         "config/particle_core_config.toml": {
-            "hash": "625f0b8d45668c222d270a5304d7dfbd3c939528",
+            "hash": "43e6c438d51b00a097df56f6625d62bd3ce8029a",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/particle_core_config.toml"
         },
         "config/particle_core_disabled_optimizations_v2.json": {
-            "hash": "cfa4a5b10f5bf73de2458138af4d34e723bcd52e",
+            "hash": "f13b05247e81b47aa3d7c3116ad1aba6869469a2",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/particle_core_disabled_optimizations_v2.json"
         },
         "config/permanentsponges-server.toml": {
-            "hash": "a204d93f2a7cd8cd0df7e02530ea1d7c4c710aa3",
+            "hash": "9535cd513e1c0b461106de5664fb96a6a2011102",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/permanentsponges-server.toml"
         },
         "config/pingwheel.json": {
-            "hash": "09aed2d301f005b85725df2f05d87cec04414e60",
+            "hash": "9c06fd2feab1b45dbc8e1fc09d0bf9a032691512",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/pingwheel.json"
         },
         "config/pingwheel.server.json": {
-            "hash": "fd9d552e70542a7a6379d9047a4299be616fe178",
+            "hash": "4af89204103333c0e1ea81db64821db56fe7c8d0",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/pingwheel.server.json"
         },
         "config/ponder-client.toml": {
-            "hash": "b502ba9ea972ce81ef602c964b3bc0bbd3401fd8",
+            "hash": "deddc6f67e212577af0151dd6e0ddf7830a65d3e",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/ponder-client.toml"
         },
         "config/rad-gyms_server.json": {
-            "hash": "4c5bbc4c86d61bfcd08020e3715e33134ca1861a",
+            "hash": "8ddae205c3fd2cb6874adfd5a85028985e310b81",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/rad-gyms_server.json"
         },
         "config/reacharound.json": {
-            "hash": "ff18bb086cb9499157c71200f847b585734fccbb",
+            "hash": "4b31a41acacbdca6bf1e4764a4965a349a70cfcd",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/reacharound.json"
         },
         "config/recipeessentials.json": {
-            "hash": "766bd3c213fd89289f63f38bef40120ffb469157",
+            "hash": "57febd725dc59b60aab31922a9370e7934d37298",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/recipeessentials.json"
         },
         "config/repelreforged-common.toml": {
-            "hash": "147bd6f3a73e8c3d7fd5f216b6b4ca65b2bce700",
+            "hash": "63e2a18222aaf048eece15a84aa36a41c32c08c2",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/repelreforged-common.toml"
         },
         "config/resourceful-config-web.json": {
-            "hash": "c778ef39c2b78d18e3f506367d1778e6eabc2ee5",
+            "hash": "50c5f17ff8c03c716b0869bac5e6cbf251bb5d32",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/resourceful-config-web.json"
         },
         "config/ribbits-neoforge-1_21_1.toml": {
-            "hash": "35d0bd4c7d2cb629f56610e8629da9e35b6b8926",
+            "hash": "a47f9decaf7890574fa8ef5f9471400b788bc133",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/ribbits-neoforge-1_21_1.toml"
         },
         "config/ribbits-options.json": {
-            "hash": "5b2c42b7f7af20a2fe243b500d22aa4b6a8b9bc2",
+            "hash": "5c46abd638cfc5358ba7a469f87fd64d7050f4be",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/ribbits-options.json"
         },
         "config/rrls.toml": {
-            "hash": "fff057532060a7606b97dbf8829b9bd8cf3bea16",
+            "hash": "1d7ad93d671300979abf0fbc0dff47a2f243c527",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/rrls.toml"
         },
         "config/scholar-client.toml": {
-            "hash": "ac6b6be8e896771620a258edaeece285fb9f5e50",
+            "hash": "88e37ae1c604cfcf1120b982052eedae6f54ad72",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/scholar-client.toml"
         },
         "config/scholar-common.toml": {
-            "hash": "d509f2b572dbc7a8e4ad99926d6557edc05fb70e",
+            "hash": "8e84e324f8e8233b127769d7b0f3d86586d38e24",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/scholar-common.toml"
         },
         "config/simplehats.json": {
-            "hash": "51f4e086caad1a7d1698f648e5d2508abb21bdc9",
+            "hash": "e736742a4bcee132ac7d00491ebcd62eb9289332",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/simplehats.json"
         },
         "config/simplehats.json5": {
-            "hash": "a64bbb1ceef9dbe76f325bea5fe65858ce8d4cc3",
+            "hash": "0ef0d7b9cc3b4c399fbd972a3f8cf8634b3cab45",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/simplehats.json5"
         },
         "config/skinlayers.json": {
-            "hash": "11124f456de51b160147a7d0f506ec746ad0ded5",
+            "hash": "9552e0366319f47881639dbcb36713bbfad98a58",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/skinlayers.json"
         },
         "config/sodium-extra-options.json": {
-            "hash": "07321117acdb50fbcffeb8d4892c422dd47b1a0b",
+            "hash": "70deee098bb365ff46f2ed59e45814addcb57e52",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/sodium-extra-options.json"
         },
         "config/sodium-extra.properties": {
-            "hash": "630ccce477371795629097f235b64b0ac9962a40",
+            "hash": "e90b2514226a0624cf42112b42477f9872598b89",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/sodium-extra.properties"
         },
         "config/sodium-fingerprint.json": {
@@ -770,151 +770,151 @@
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/sodium-fingerprint.json"
         },
         "config/sodium-mixins.properties": {
-            "hash": "47b5a83b5372584c375506ee9bc426851632244a",
+            "hash": "5455463ee999b945c1cff8ae90f2b705e19fb86c",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/sodium-mixins.properties"
         },
         "config/sodium-options.json": {
-            "hash": "328163ca6f75df58b2dbb2fa56c93f35759963ff",
+            "hash": "2f221c55c9278f683b4afe220649abf79f130728",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/sodium-options.json"
         },
         "config/sodiumdynamiclights-client.toml": {
-            "hash": "c87b96b22f6d455bcdd7b27b72cc30f0ba945ebf",
+            "hash": "b9fa2f860583c210f1295131fa19e77e11de8876",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/sodiumdynamiclights-client.toml"
         },
         "config/sophisticatedbackpacks-common.toml": {
-            "hash": "faab0a1537b5377ed89cf1a2f6e660116a15891b",
+            "hash": "1b8594736f89ee42205972c77bf5ab5fc0682258",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/sophisticatedbackpacks-common.toml"
         },
         "config/sophisticatedbackpacks-server.toml": {
-            "hash": "f5b6a35b314f1a72ac18623c6a280436cbc4ecaf",
+            "hash": "016f54f4cc8f7bdb5d99d527dd9d17ac246c8ff8",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/sophisticatedbackpacks-server.toml"
         },
         "config/sophisticatedcore-client.toml": {
-            "hash": "08dbe082315554646cc1deeeb5dfef26b412236d",
+            "hash": "fce49bc4cdc9bd3479b5844ce1bb5c90c8d42f66",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/sophisticatedcore-client.toml"
         },
         "config/sophisticatedcore-common.toml": {
-            "hash": "fa2a0c244be9eaf1df934f322f49b756aa2a2691",
+            "hash": "8b6a4a8b1de5dd0e85156285955b2be25f7ba5e6",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/sophisticatedcore-common.toml"
         },
         "config/sophisticatedstorage-client.toml": {
-            "hash": "64af281fa2084ea7357479d50a5ae23052a6f1fe",
+            "hash": "f03b81d2e1c7c43df7780c727344e14f54b9d8b2",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/sophisticatedstorage-client.toml"
         },
         "config/sophisticatedstorage-common.toml": {
-            "hash": "d578e18d501ad877880d4e8505fdfde1dfb1367a",
+            "hash": "fcb62fb2d4bfeb7f66a883dcdfb5e8f066ccdbaa",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/sophisticatedstorage-common.toml"
         },
         "config/sophisticatedstorage-server.toml": {
-            "hash": "67b7d96b697e1070747277fcf350f3cad58493b7",
+            "hash": "483114b3f8a1b9218b76eff0102cd9f460d96b94",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/sophisticatedstorage-server.toml"
         },
         "config/spawn_notification.json": {
-            "hash": "6824ec8366ef1168e77fcf8149972cba7e97c2ca",
+            "hash": "396894bdd366781405b55f00b82b257981024c46",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/spawn_notification.json"
         },
         "config/structureessentials.json": {
-            "hash": "94572050afdfa705eb2412892bc46cd5edca3480",
+            "hash": "a3c715cede6bac9037e15f4f86e664949e68debd",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/structureessentials.json"
         },
         "config/structure_layout_optimizer.jsonc": {
-            "hash": "7b3b12ebaea2a119ffcdaf28f2b3729307c2dedb",
+            "hash": "12aa60b222be5b66d4744e0d02b2232ea20b36f8",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/structure_layout_optimizer.jsonc"
         },
         "config/stylisheffects-client.toml": {
-            "hash": "701f698ff59714e4a387f1046a0fdc6719ad79be",
+            "hash": "df9559757a6a794be1a7e0d1d7549d4aa7994f53",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/stylisheffects-client.toml"
         },
         "config/things.json5": {
-            "hash": "aaf516418883b9573d6ba625de93b2484caf9094",
+            "hash": "51172ee99cca4256f51398014e623dd25263cb03",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/things.json5"
         },
         "config/tim_core.json": {
-            "hash": "55dcc03a188641cf57ce7921392b627a0400965b",
+            "hash": "8599fee4b1b38dd3c05c113ee4512e1558a87ea5",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/tim_core.json"
         },
         "config/toms_storage-common.toml": {
-            "hash": "59b3401c12ac8337f5ebba44223b5f86673d7336",
+            "hash": "3879b8af0710d2b84e6a23c3bfe47825d089fc69",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/toms_storage-common.toml"
         },
         "config/toms_storage-server.toml": {
-            "hash": "c4db75e3d8d696eebadd268b839506aece450f97",
+            "hash": "0b4ae19b402ad43966b86d55a924d9cbab8990fa",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/toms_storage-server.toml"
         },
         "config/trade_cycling-client.toml": {
-            "hash": "4d33f63b7df9ec74f6e4c510648cfe6152c49dae",
+            "hash": "194ff066281e520faa531a80222ab9c613f88c60",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/trade_cycling-client.toml"
         },
         "config/tradingpost-server.toml": {
-            "hash": "803b8f827ba0659dc5784227067ec4c18efad587",
+            "hash": "746ede12d0d5e75ba3c021b5237ec3a66f2230fa",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/tradingpost-server.toml"
         },
         "config/transition.json": {
-            "hash": "0925052736981566a21568d30742a04e7653d024",
+            "hash": "175ef27df07234a2e37dfbda9766f8c947122e12",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/transition.json"
         },
         "config/trashcans-common.toml": {
-            "hash": "3c79403b869be94c0a48c6710d75ceca0f2ccc88",
+            "hash": "bc98d801ebe56937c94121bb6d7c7dd66d2610b4",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/trashcans-common.toml"
         },
         "config/trender.json": {
-            "hash": "0b447ee344f59ca1a14423989771edb0bc9b4a54",
+            "hash": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/trender.json"
         },
         "config/twilightdelight-client.toml": {
-            "hash": "6a53bc45d841ea8d40df63c261a411ceaeb9dd0b",
+            "hash": "9242b3039f18e51ed8d25d13e19f739283d3bc17",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/twilightdelight-client.toml"
         },
         "config/twilightdelight-server.toml": {
-            "hash": "9485dbfc1c06141c604c600373bf049ddcba632e",
+            "hash": "5e16b12a3e7c967d608f34ef5f5465d4b881313a",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/twilightdelight-server.toml"
         },
         "config/twilightforest-client.toml": {
-            "hash": "f73457becf165be19ac9ce87baa705c3fdad0f44",
+            "hash": "95213825559398f01fce62ba07bc525f354aa2a0",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/twilightforest-client.toml"
         },
         "config/twilightforest-common.toml": {
-            "hash": "5fe61b124ca912f0e0a991499a11938a8da9bd44",
+            "hash": "eaf629fe9fd9e2dabbe7dd231ef90e7960552ab5",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/twilightforest-common.toml"
         },
         "config/ubesdelight.json": {
-            "hash": "3bd42585ca1ceb87dbae1ba98b8132de4fb474ae",
+            "hash": "101d663b3d918324db4d828fe9348d210f842474",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/ubesdelight.json"
         },
         "config/vanityslots-server.toml": {
-            "hash": "af8950d6066607b605fb311bb8ccc4e6f61b38f6",
+            "hash": "75e50bea4b5f56c0f40176477925bb60b40b19fd",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/vanityslots-server.toml"
         },
         "config/variantsandventures.json": {
-            "hash": "e205cb73094629f51fec2b5453cf4c8590f119ad",
+            "hash": "69d90984b8f5945a558f1bc92d2a045b8c6762d1",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/variantsandventures.json"
         },
         "config/vinery.toml": {
-            "hash": "0338bac57ab041042d3f34eb2f9cf11280c5c6a9",
+            "hash": "340640cd0fe3294ec1dd7f146abd13db2213ea5b",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/vinery.toml"
         },
         "config/visualworkbench-client.toml": {
-            "hash": "4825cd32a0c5153e74c7e22068dd22d015fdaaab",
+            "hash": "00f1db890f429a8bebed1ff56dd8162d288f5f3d",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/visualworkbench-client.toml"
         },
         "config/visualworkbench-common.toml": {
-            "hash": "94b8853750de660a443bf60703d7861b6bda5ecc",
+            "hash": "2d1fb545c76d3f7124e2d189610af7f016d36d10",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/visualworkbench-common.toml"
         },
         "config/wanderer_ribbit-common.toml": {
-            "hash": "587770c16d82cbc8e0cbc0e1997dc53c736789d9",
+            "hash": "8ca8386c583639db7dc9f156b98cac6e1c1951fe",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/wanderer_ribbit-common.toml"
         },
         "config/wandering-ribbit-spawn-config.toml": {
-            "hash": "587770c16d82cbc8e0cbc0e1997dc53c736789d9",
+            "hash": "8ca8386c583639db7dc9f156b98cac6e1c1951fe",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/wandering-ribbit-spawn-config.toml"
         },
         "config/waystones-common.toml": {
-            "hash": "b5e1e2c8c4fba32ab1a92809bc93d7547d80a380",
+            "hash": "735d5cc9274bdfed94b3d2254bd122e81b9c56b5",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/waystones-common.toml"
         },
         "config/xaerohud.txt": {
-            "hash": "af000ffb962dbe972644bddf7488cd13f69bfeb5",
+            "hash": "006a1366dab169e2efbf8cfe7a2987d976f772eb",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/xaerohud.txt"
         },
         "config/xaeropatreon.txt": {
@@ -922,19 +922,19 @@
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/xaeropatreon.txt"
         },
         "config/xray-client.toml": {
-            "hash": "e12f9b87b11b72030bb2f13cff7a95700c6f6dc7",
+            "hash": "2a01f83533e93fdd9816735eea8fd5f1202977f0",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/xray-client.toml"
         },
         "config/yacl.json5": {
-            "hash": "f0b012c7358773f90bd7ae1770bf541d1e9c1833",
+            "hash": "622920f29084efcd3a8d0b2a0ea0756fece182d2",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/yacl.json5"
         },
         "config/yigd.json": {
-            "hash": "ecb2244a5f19ed7d6cd9620bda0f350eab4665bc",
+            "hash": "6175addecb1a09c9e1b62985dd7ac34a43989e66",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/yigd.json"
         },
         "config/zoomify.json": {
-            "hash": "430a0bc5521e4854448b1a4cfa2536d2958380af",
+            "hash": "d9a9878c8753f2580a0b43eb6afd7c6dfec31902",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/zoomify.json"
         },
         "config/almostunified/debug.json": {
@@ -942,415 +942,415 @@
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/almostunified/debug.json"
         },
         "config/almostunified/duplicates.json": {
-            "hash": "419777b8409b298303acfc4103cba39c9caa905f",
+            "hash": "d31969d528c08fb4a6dc4006497bfd1159675024",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/almostunified/duplicates.json"
         },
         "config/almostunified/placeholders.json": {
-            "hash": "d5734a8a236cabddf78a14391ba9927370453b26",
+            "hash": "06f57f7a107d2c53b50e7a61b22196a142eae1f6",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/almostunified/placeholders.json"
         },
         "config/almostunified/startup.json": {
-            "hash": "7c31bc4f2c109197ba8b09951a851e1b31723db1",
+            "hash": "7748689d474752fbee888f3a1c79653398aaa752",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/almostunified/startup.json"
         },
         "config/almostunified/tags.json": {
-            "hash": "28ffa07a53a626beafc5560bebd13ccfd24be394",
+            "hash": "46646e5e8c0715fe392be1788dad8ab123d11990",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/almostunified/tags.json"
         },
         "config/almostunified/unification/materials.json": {
-            "hash": "fe4c1b18e4af6d6a409cce5f6db660c55bf2aa96",
+            "hash": "7aa6edf6912ddfbde6f2d3bf8c43fe8cdfe94902",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/almostunified/unification/materials.json"
         },
         "config/artifacts/client.toml": {
-            "hash": "08a387d34de03a91f87c55e1e9af14b6935a9dc2",
+            "hash": "f2bbf59e3eecfb8742a180380c43e17b8dccd8cb",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/artifacts/client.toml"
         },
         "config/artifacts/general.toml": {
-            "hash": "4bc41887501bf15deec55e25f98dd82183a20709",
+            "hash": "b7e76c54e3ea9a9d504185e1f1951affb2159acf",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/artifacts/general.toml"
         },
         "config/artifacts/items.toml": {
-            "hash": "4ac1372d84785fbccc8d8073f3641ffd00a38749",
+            "hash": "a25bcadd17ebd71ad45d533ea45fb00f2ca4ccdb",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/artifacts/items.toml"
         },
         "config/attributefix/additionalentityattributes/generic.height.json": {
-            "hash": "995d11d1a896469f58c1b97c941b9b21647ee8d8",
+            "hash": "aae7e2890c973fad151ac37ed1ba7866dfbdf524",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/additionalentityattributes/generic.height.json"
         },
         "config/attributefix/additionalentityattributes/generic.hitbox_height.json": {
-            "hash": "995d11d1a896469f58c1b97c941b9b21647ee8d8",
+            "hash": "aae7e2890c973fad151ac37ed1ba7866dfbdf524",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/additionalentityattributes/generic.hitbox_height.json"
         },
         "config/attributefix/additionalentityattributes/generic.hitbox_scale.json": {
-            "hash": "995d11d1a896469f58c1b97c941b9b21647ee8d8",
+            "hash": "aae7e2890c973fad151ac37ed1ba7866dfbdf524",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/additionalentityattributes/generic.hitbox_scale.json"
         },
         "config/attributefix/additionalentityattributes/generic.hitbox_width.json": {
-            "hash": "995d11d1a896469f58c1b97c941b9b21647ee8d8",
+            "hash": "aae7e2890c973fad151ac37ed1ba7866dfbdf524",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/additionalentityattributes/generic.hitbox_width.json"
         },
         "config/attributefix/additionalentityattributes/generic.lava_speed.json": {
-            "hash": "a95d3715ac2342ba53980ce0b5002268fef93be2",
+            "hash": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/additionalentityattributes/generic.lava_speed.json"
         },
         "config/attributefix/additionalentityattributes/generic.magic_protection.json": {
-            "hash": "98eaca5e3a905d4bfb39f96e1c7ca9fa49e711f1",
+            "hash": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/additionalentityattributes/generic.magic_protection.json"
         },
         "config/attributefix/additionalentityattributes/generic.mob_detection_range.json": {
-            "hash": "98eaca5e3a905d4bfb39f96e1c7ca9fa49e711f1",
+            "hash": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/additionalentityattributes/generic.mob_detection_range.json"
         },
         "config/attributefix/additionalentityattributes/generic.model_height.json": {
-            "hash": "995d11d1a896469f58c1b97c941b9b21647ee8d8",
+            "hash": "aae7e2890c973fad151ac37ed1ba7866dfbdf524",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/additionalentityattributes/generic.model_height.json"
         },
         "config/attributefix/additionalentityattributes/generic.model_scale.json": {
-            "hash": "995d11d1a896469f58c1b97c941b9b21647ee8d8",
+            "hash": "aae7e2890c973fad151ac37ed1ba7866dfbdf524",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/additionalentityattributes/generic.model_scale.json"
         },
         "config/attributefix/additionalentityattributes/generic.model_width.json": {
-            "hash": "995d11d1a896469f58c1b97c941b9b21647ee8d8",
+            "hash": "aae7e2890c973fad151ac37ed1ba7866dfbdf524",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/additionalentityattributes/generic.model_width.json"
         },
         "config/attributefix/additionalentityattributes/generic.water_speed.json": {
-            "hash": "a95d3715ac2342ba53980ce0b5002268fef93be2",
+            "hash": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/additionalentityattributes/generic.water_speed.json"
         },
         "config/attributefix/additionalentityattributes/generic.width.json": {
-            "hash": "995d11d1a896469f58c1b97c941b9b21647ee8d8",
+            "hash": "aae7e2890c973fad151ac37ed1ba7866dfbdf524",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/additionalentityattributes/generic.width.json"
         },
         "config/attributefix/additionalentityattributes/player.bonus_loot_count_rolls.json": {
-            "hash": "36944780bb9a786d2d8cad9de1f237e54be0f788",
+            "hash": "070c2d1b53357c4ba68aa06ae7dee86d6f0e205d",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/additionalentityattributes/player.bonus_loot_count_rolls.json"
         },
         "config/attributefix/additionalentityattributes/player.bonus_rare_loot_rolls.json": {
-            "hash": "36944780bb9a786d2d8cad9de1f237e54be0f788",
+            "hash": "070c2d1b53357c4ba68aa06ae7dee86d6f0e205d",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/additionalentityattributes/player.bonus_rare_loot_rolls.json"
         },
         "config/attributefix/additionalentityattributes/player.collection_range.json": {
-            "hash": "cb692c71fb85f0091e046167b40bc6f9cf29fbc1",
+            "hash": "9b869572907bd57caa24e78264aa184cb55d77c9",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/additionalentityattributes/player.collection_range.json"
         },
         "config/attributefix/additionalentityattributes/player.critical_bonus_damage.json": {
-            "hash": "b095ce9f891b474b3ea009f196a4fb72ad28bc8f",
+            "hash": "ad70d59874d480ea052b520619d80b834d7925a4",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/additionalentityattributes/player.critical_bonus_damage.json"
         },
         "config/attributefix/additionalentityattributes/player.dropped_experience.json": {
-            "hash": "98eaca5e3a905d4bfb39f96e1c7ca9fa49e711f1",
+            "hash": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/additionalentityattributes/player.dropped_experience.json"
         },
         "config/attributefix/additionalentityattributes/player.lava_visibility.json": {
-            "hash": "98eaca5e3a905d4bfb39f96e1c7ca9fa49e711f1",
+            "hash": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/additionalentityattributes/player.lava_visibility.json"
         },
         "config/attributefix/additionalentityattributes/player.water_visibility.json": {
-            "hash": "98eaca5e3a905d4bfb39f96e1c7ca9fa49e711f1",
+            "hash": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/additionalentityattributes/player.water_visibility.json"
         },
         "config/attributefix/artifacts/generic.attack_burning_duration.json": {
-            "hash": "dd75df4f44ddf50ccc3f0e7428eeeb9c548adfe6",
+            "hash": "1c08fa9400d0a1c9e8c6d74f64c6ca81a8c036c8",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/artifacts/generic.attack_burning_duration.json"
         },
         "config/attributefix/artifacts/generic.drinking_speed.json": {
-            "hash": "9bbbd26ff8d06eda56600c4d8b8659326eba0eca",
+            "hash": "f7238e0e7626b6208f39c347ee63ac4cce747996",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/artifacts/generic.drinking_speed.json"
         },
         "config/attributefix/artifacts/generic.eating_speed.json": {
-            "hash": "9bbbd26ff8d06eda56600c4d8b8659326eba0eca",
+            "hash": "f7238e0e7626b6208f39c347ee63ac4cce747996",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/artifacts/generic.eating_speed.json"
         },
         "config/attributefix/artifacts/generic.flatulence.json": {
-            "hash": "a95d3715ac2342ba53980ce0b5002268fef93be2",
+            "hash": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/artifacts/generic.flatulence.json"
         },
         "config/attributefix/artifacts/generic.invincibility_ticks.json": {
-            "hash": "7140bd4ce1f8c259566e464eaaf8cc2b7e1f811a",
+            "hash": "150b27e9616a763f7d0964c7c28ad89f7d732c8b",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/artifacts/generic.invincibility_ticks.json"
         },
         "config/attributefix/artifacts/generic.mount_speed.json": {
-            "hash": "489dcb0eac390bdf9bf6f8f034fbe1adf9474909",
+            "hash": "34efa62721817b26ad17217461049f6538a83bbf",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/artifacts/generic.mount_speed.json"
         },
         "config/attributefix/artifacts/generic.movement_speed_on_snow.json": {
-            "hash": "98eaca5e3a905d4bfb39f96e1c7ca9fa49e711f1",
+            "hash": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/artifacts/generic.movement_speed_on_snow.json"
         },
         "config/attributefix/artifacts/generic.slip_resistance.json": {
-            "hash": "a95d3715ac2342ba53980ce0b5002268fef93be2",
+            "hash": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/artifacts/generic.slip_resistance.json"
         },
         "config/attributefix/artifacts/generic.sprinting_speed.json": {
-            "hash": "489dcb0eac390bdf9bf6f8f034fbe1adf9474909",
+            "hash": "34efa62721817b26ad17217461049f6538a83bbf",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/artifacts/generic.sprinting_speed.json"
         },
         "config/attributefix/artifacts/generic.sprinting_step_height.json": {
-            "hash": "76b21f5101ef3c07729bafaed718e13f46b2b4c1",
+            "hash": "168fec0e5f12bc91e259dec9fd2bc9267e385f69",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/artifacts/generic.sprinting_step_height.json"
         },
         "config/attributefix/artifacts/player.entity_experience.json": {
-            "hash": "308a46c466ee4f7110f55f9cdedd3a0dec9c63d7",
+            "hash": "be72df575070529a730c4952c747461788217b37",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/artifacts/player.entity_experience.json"
         },
         "config/attributefix/artifacts/player.villager_reputation.json": {
-            "hash": "98eaca5e3a905d4bfb39f96e1c7ca9fa49e711f1",
+            "hash": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/artifacts/player.villager_reputation.json"
         },
         "config/attributefix/caelus/fall_flying.json": {
-            "hash": "a95d3715ac2342ba53980ce0b5002268fef93be2",
+            "hash": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/caelus/fall_flying.json"
         },
         "config/attributefix/minecraft/generic.armor.json": {
-            "hash": "0be09b87e64ff76b1eb1d0c2dc063d9c7b87ccc2",
+            "hash": "50dd44b372aa1cff539c6aa7b4e95d5fab800a6f",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.armor.json"
         },
         "config/attributefix/minecraft/generic.armor_toughness.json": {
-            "hash": "0be09b87e64ff76b1eb1d0c2dc063d9c7b87ccc2",
+            "hash": "50dd44b372aa1cff539c6aa7b4e95d5fab800a6f",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.armor_toughness.json"
         },
         "config/attributefix/minecraft/generic.attack_damage.json": {
-            "hash": "0be09b87e64ff76b1eb1d0c2dc063d9c7b87ccc2",
+            "hash": "50dd44b372aa1cff539c6aa7b4e95d5fab800a6f",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.attack_damage.json"
         },
         "config/attributefix/minecraft/generic.attack_knockback.json": {
-            "hash": "0be09b87e64ff76b1eb1d0c2dc063d9c7b87ccc2",
+            "hash": "50dd44b372aa1cff539c6aa7b4e95d5fab800a6f",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.attack_knockback.json"
         },
         "config/attributefix/minecraft/generic.attack_speed.json": {
-            "hash": "98eaca5e3a905d4bfb39f96e1c7ca9fa49e711f1",
+            "hash": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.attack_speed.json"
         },
         "config/attributefix/minecraft/generic.burning_time.json": {
-            "hash": "98eaca5e3a905d4bfb39f96e1c7ca9fa49e711f1",
+            "hash": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.burning_time.json"
         },
         "config/attributefix/minecraft/generic.explosion_knockback_resistance.json": {
-            "hash": "a95d3715ac2342ba53980ce0b5002268fef93be2",
+            "hash": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.explosion_knockback_resistance.json"
         },
         "config/attributefix/minecraft/generic.fall_damage_multiplier.json": {
-            "hash": "bf52327e064256e6db8c79d610d2abad567ba308",
+            "hash": "b6d7ad2357c5eac69ed7a8838d8fd53375c71353",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.fall_damage_multiplier.json"
         },
         "config/attributefix/minecraft/generic.flying_speed.json": {
-            "hash": "98eaca5e3a905d4bfb39f96e1c7ca9fa49e711f1",
+            "hash": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.flying_speed.json"
         },
         "config/attributefix/minecraft/generic.follow_range.json": {
-            "hash": "b2abf7e950460a5f8a78aa10cdd7cc7001f8743d",
+            "hash": "e3f9cf465e92390bfd4c4de047b808f002eb3573",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.follow_range.json"
         },
         "config/attributefix/minecraft/generic.gravity.json": {
-            "hash": "d77b608be9b5802435407bab35c0bf5b95cd4389",
+            "hash": "1d5ed055862c47949066a20d3ed5826f712371f6",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.gravity.json"
         },
         "config/attributefix/minecraft/generic.jump_strength.json": {
-            "hash": "cb9191f163c7fb6a22b35b2c5acd24a6b4ce0d10",
+            "hash": "a96c33a8377874f4e84e774abfa2a507c89ef938",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.jump_strength.json"
         },
         "config/attributefix/minecraft/generic.knockback_resistance.json": {
-            "hash": "a95d3715ac2342ba53980ce0b5002268fef93be2",
+            "hash": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.knockback_resistance.json"
         },
         "config/attributefix/minecraft/generic.luck.json": {
-            "hash": "e6d7e0e221e62b054b871cf01442dfa1fcac8d29",
+            "hash": "588408d9fec5021933d07a1bade0ba5e6eb233aa",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.luck.json"
         },
         "config/attributefix/minecraft/generic.max_absorption.json": {
-            "hash": "b2abf7e950460a5f8a78aa10cdd7cc7001f8743d",
+            "hash": "e3f9cf465e92390bfd4c4de047b808f002eb3573",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.max_absorption.json"
         },
         "config/attributefix/minecraft/generic.max_health.json": {
-            "hash": "4fa4f559f48b9aed1bf6ad7451fd72ffa5f21b88",
+            "hash": "7ec2381eea9f9462324a4182fc7fd504bcebb2fb",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.max_health.json"
         },
         "config/attributefix/minecraft/generic.movement_efficiency.json": {
-            "hash": "a95d3715ac2342ba53980ce0b5002268fef93be2",
+            "hash": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.movement_efficiency.json"
         },
         "config/attributefix/minecraft/generic.movement_speed.json": {
-            "hash": "98eaca5e3a905d4bfb39f96e1c7ca9fa49e711f1",
+            "hash": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.movement_speed.json"
         },
         "config/attributefix/minecraft/generic.oxygen_bonus.json": {
-            "hash": "98eaca5e3a905d4bfb39f96e1c7ca9fa49e711f1",
+            "hash": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.oxygen_bonus.json"
         },
         "config/attributefix/minecraft/generic.safe_fall_distance.json": {
-            "hash": "e6d7e0e221e62b054b871cf01442dfa1fcac8d29",
+            "hash": "588408d9fec5021933d07a1bade0ba5e6eb233aa",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.safe_fall_distance.json"
         },
         "config/attributefix/minecraft/generic.scale.json": {
-            "hash": "995d11d1a896469f58c1b97c941b9b21647ee8d8",
+            "hash": "aae7e2890c973fad151ac37ed1ba7866dfbdf524",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.scale.json"
         },
         "config/attributefix/minecraft/generic.step_height.json": {
-            "hash": "76b21f5101ef3c07729bafaed718e13f46b2b4c1",
+            "hash": "168fec0e5f12bc91e259dec9fd2bc9267e385f69",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.step_height.json"
         },
         "config/attributefix/minecraft/generic.water_movement_efficiency.json": {
-            "hash": "a95d3715ac2342ba53980ce0b5002268fef93be2",
+            "hash": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/generic.water_movement_efficiency.json"
         },
         "config/attributefix/minecraft/player.block_break_speed.json": {
-            "hash": "98eaca5e3a905d4bfb39f96e1c7ca9fa49e711f1",
+            "hash": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/player.block_break_speed.json"
         },
         "config/attributefix/minecraft/player.block_interaction_range.json": {
-            "hash": "308a46c466ee4f7110f55f9cdedd3a0dec9c63d7",
+            "hash": "be72df575070529a730c4952c747461788217b37",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/player.block_interaction_range.json"
         },
         "config/attributefix/minecraft/player.entity_interaction_range.json": {
-            "hash": "308a46c466ee4f7110f55f9cdedd3a0dec9c63d7",
+            "hash": "be72df575070529a730c4952c747461788217b37",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/player.entity_interaction_range.json"
         },
         "config/attributefix/minecraft/player.mining_efficiency.json": {
-            "hash": "98eaca5e3a905d4bfb39f96e1c7ca9fa49e711f1",
+            "hash": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/player.mining_efficiency.json"
         },
         "config/attributefix/minecraft/player.sneaking_speed.json": {
-            "hash": "a95d3715ac2342ba53980ce0b5002268fef93be2",
+            "hash": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/player.sneaking_speed.json"
         },
         "config/attributefix/minecraft/player.submerged_mining_speed.json": {
-            "hash": "72820615807cf5d8438efb7b8fbe8e1a47534f53",
+            "hash": "675ec9e987ac72658f05d4883deed2a724ac19e4",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/player.submerged_mining_speed.json"
         },
         "config/attributefix/minecraft/player.sweeping_damage_ratio.json": {
-            "hash": "a95d3715ac2342ba53980ce0b5002268fef93be2",
+            "hash": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/player.sweeping_damage_ratio.json"
         },
         "config/attributefix/minecraft/zombie.spawn_reinforcements.json": {
-            "hash": "a95d3715ac2342ba53980ce0b5002268fef93be2",
+            "hash": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/minecraft/zombie.spawn_reinforcements.json"
         },
         "config/attributefix/mythicmetals/carmot_shield.json": {
-            "hash": "b2abf7e950460a5f8a78aa10cdd7cc7001f8743d",
+            "hash": "e3f9cf465e92390bfd4c4de047b808f002eb3573",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/mythicmetals/carmot_shield.json"
         },
         "config/attributefix/mythicmetals/elytra_rocket_speed.json": {
-            "hash": "98eaca5e3a905d4bfb39f96e1c7ca9fa49e711f1",
+            "hash": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/mythicmetals/elytra_rocket_speed.json"
         },
         "config/attributefix/mythicmetals/fire_vulnerability.json": {
-            "hash": "b2abf7e950460a5f8a78aa10cdd7cc7001f8743d",
+            "hash": "e3f9cf465e92390bfd4c4de047b808f002eb3573",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/mythicmetals/fire_vulnerability.json"
         },
         "config/attributefix/neoforge/nametag_distance.json": {
-            "hash": "308a46c466ee4f7110f55f9cdedd3a0dec9c63d7",
+            "hash": "be72df575070529a730c4952c747461788217b37",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/neoforge/nametag_distance.json"
         },
         "config/attributefix/neoforge/swim_speed.json": {
-            "hash": "98eaca5e3a905d4bfb39f96e1c7ca9fa49e711f1",
+            "hash": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/neoforge/swim_speed.json"
         },
         "config/attributefix/twilightforest/clone_count.json": {
-            "hash": "98eaca5e3a905d4bfb39f96e1c7ca9fa49e711f1",
+            "hash": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/twilightforest/clone_count.json"
         },
         "config/attributefix/twilightforest/max_shield_strength.json": {
-            "hash": "98eaca5e3a905d4bfb39f96e1c7ca9fa49e711f1",
+            "hash": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/twilightforest/max_shield_strength.json"
         },
         "config/attributefix/twilightforest/minion_count.json": {
-            "hash": "98eaca5e3a905d4bfb39f96e1c7ca9fa49e711f1",
+            "hash": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/attributefix/twilightforest/minion_count.json"
         },
         "config/betterdeserttemples/README.txt": {
-            "hash": "33db3b4fe34d6f6b79f4a88b351eeaaaa0af12a9",
+            "hash": "7d685fa191148b59f2d9dd19f06ce0f4d6dee2f3",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterdeserttemples/README.txt"
         },
         "config/betterdeserttemples/neoforge-1_21/armorstands.json": {
-            "hash": "de3a7957c029648eae20dd61e6fee2bba057442f",
+            "hash": "efe8c0001d8bc3cb5b232ea86fe7ebae4be68abd",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterdeserttemples/neoforge-1_21/armorstands.json"
         },
         "config/betterdeserttemples/neoforge-1_21/itemframes.json": {
-            "hash": "2755a3afb78b26fc1308e66f1c38e16f042d809e",
+            "hash": "faf36452ca73712e12790fed874f1d0ac14d14ad",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterdeserttemples/neoforge-1_21/itemframes.json"
         },
         "config/betterdeserttemples/neoforge-1_21/README.txt": {
-            "hash": "8cb0184d615a66aae23dc9f22a4fa96dfbd73961",
+            "hash": "80a9d927f4978590ec21d5ae2e2a8e68b16f3277",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterdeserttemples/neoforge-1_21/README.txt"
         },
         "config/betterfortresses/README.txt": {
-            "hash": "f8902da9a441eb0bd99eaffa09516ff3fc3b269f",
+            "hash": "898e0d430a5395007d520caa4dd1d47c611de703",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterfortresses/README.txt"
         },
         "config/betterfortresses/neoforge-1_21/itemframes.json": {
-            "hash": "3c94d877c0ee8e9f4a4851289673e403fa10646c",
+            "hash": "948f0259306664c072db664ffd1d841a168a4f7c",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterfortresses/neoforge-1_21/itemframes.json"
         },
         "config/betterfortresses/neoforge-1_21/README.txt": {
-            "hash": "4817afb627c5ed0efbabb07ff80ad958fee80c5b",
+            "hash": "abaeda3856b09c5dd80e1b5ada9aaf171d038995",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterfortresses/neoforge-1_21/README.txt"
         },
         "config/betterstrongholds/README.txt": {
-            "hash": "9e48c6c5cc04fbbe5bd5bc56022fe02ccaa112fe",
+            "hash": "00ed29b440752cac0617bd7d2c44c971097e2c8c",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterstrongholds/README.txt"
         },
         "config/betterstrongholds/neoforge-1_21/armorstands.json": {
-            "hash": "684355df9ff22b369b07ca99b5459673f8c5007b",
+            "hash": "95c440a31033dc3ca80f3874558f8aaa6b0b8c09",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterstrongholds/neoforge-1_21/armorstands.json"
         },
         "config/betterstrongholds/neoforge-1_21/itemframes.json": {
-            "hash": "3ce6c30f1617403adda708936e9541fe5cf70570",
+            "hash": "f907eaae5916a119b6934fd49592f0881081e12d",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterstrongholds/neoforge-1_21/itemframes.json"
         },
         "config/betterstrongholds/neoforge-1_21/ores.json": {
-            "hash": "ee56329bcb12c7becf6bc9d92af4a9a274dd2448",
+            "hash": "22b4f60fdd6735cf85936251152c4ad2207748fe",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterstrongholds/neoforge-1_21/ores.json"
         },
         "config/betterstrongholds/neoforge-1_21/rareblocks.json": {
-            "hash": "a74ef0594bdfbb7207eb5a30ad89c21b1ea78d81",
+            "hash": "83a2c76b53c67690b52c163ec42c41338ca25d80",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterstrongholds/neoforge-1_21/rareblocks.json"
         },
         "config/betterstrongholds/neoforge-1_21/README.txt": {
-            "hash": "835386b8c393429e71774acc84fd431984a363e6",
+            "hash": "ee9c20aeefab7187288a4289d129a3155efa5823",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/betterstrongholds/neoforge-1_21/README.txt"
         },
         "config/cobblebadges/common.json": {
-            "hash": "6137a419bfe797432373ab75d823fbb25c663af2",
+            "hash": "ffcdfaf14363515a2fa275a04ff329f990cb64df",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/cobblebadges/common.json"
         },
         "config/cobbleloots/cobbleloots.yaml": {
-            "hash": "c7eb502a444d688adb5754db29849045f94fe7d9",
+            "hash": "8f1d78cf86b5c5a2328643d918f8c06de812d385",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/cobbleloots/cobbleloots.yaml"
         },
         "config/cobblemon/main.json": {
-            "hash": "a0189760dfc0c3761469ea02a2d3a93d2db4c81b",
+            "hash": "09b0a9a0ac6e9bda0581de4ec76fd5d96615dd28",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/cobblemon/main.json"
         },
         "config/cobblemonsizevariation/config.json": {
-            "hash": "6025fbfc8966ee772161b4ba971356445852ea4b",
+            "hash": "a7b780afa398e38bb9135abefedf7eaf2a834292",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/cobblemonsizevariation/config.json"
         },
         "config/cobblemonsizevariation/sizes/basic.json": {
-            "hash": "c70d09ef2117c313fcfb667f4b787c4cbf7a61f7",
+            "hash": "5ff2cd27110e51dd4d03fc12cbad3cdb44804e97",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/cobblemonsizevariation/sizes/basic.json"
         },
         "config/cobblemonsizevariation/sizes/gen9.json": {
-            "hash": "6cd43a62b7256bc00e07e781d5a7da946c059edb",
+            "hash": "cd42953cb2e6fc5e8d234dbc41c3ac690983cb4a",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/cobblemonsizevariation/sizes/gen9.json"
         },
         "config/cobblenav/client-config.json": {
-            "hash": "7e94ae8ae1d6abe1ece9ca70214738154b60fe3a",
+            "hash": "e774868d1d366ffe1392f698c075802f0b55fa26",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/cobblenav/client-config.json"
         },
         "config/cobblenav/server-config.json": {
-            "hash": "f8d3551fa22bfa82424cf4dff45eba7768bc6399",
+            "hash": "365fc3ecdf5ed08008fa7f18ee106209ade4b6f1",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/cobblenav/server-config.json"
         },
         "config/cobbreeding/main.json": {
-            "hash": "e79edec6cdd675ffb3182dae2e726debf3cb5f47",
+            "hash": "b0c0f96610a8d2adeeeb06eedf39b7c2ce3194ac",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/cobbreeding/main.json"
         },
         "config/CoroUtil/General.toml": {
-            "hash": "1233bc5e9b76ae23493ad31db26e92b7da397270",
+            "hash": "3bd7d98616d2c4ff4ee7c8e12257bf7e5891d955",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/CoroUtil/General.toml"
         },
         "config/defaultoptions/keybindings.txt": {
-            "hash": "48eefbc8aec7f0848fcacd6707cf7a7a746c07e7",
+            "hash": "4ff384bced11f35ff7fbf12d5983ffdcd6ba6b56",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/defaultoptions/keybindings.txt"
         },
         "config/defaultoptions/servers.dat": {
@@ -1358,55 +1358,55 @@
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/defaultoptions/servers.dat"
         },
         "config/exmi/enable_config.json": {
-            "hash": "f3361b8ecc4ebc2e27b3e712b17646114596d553",
+            "hash": "bd384e61f0c684a40fb643eb288c9e3359040119",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/exmi/enable_config.json"
         },
         "config/fabric/indigo-renderer.properties": {
-            "hash": "e72b8421abf099dc6918b0853cc56a7c94f9442e",
+            "hash": "ce6d05daa168b07845d046195343fcff799bff2a",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/fabric/indigo-renderer.properties"
         },
         "config/fwaystones/config.json5": {
-            "hash": "a8528ee45f3922cd695c9eaf19bd1780601d97e4",
+            "hash": "ea97e7adec75a8bfdf5fd5d9c096753a6de09128",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/fwaystones/config.json5"
         },
         "config/fzzy_config/keybinds.toml": {
-            "hash": "7366d1b5a393579d6f561ec42bb68d17138190e4",
+            "hash": "f808afa706d9a4934612b20e1efd513416a0e8f1",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/fzzy_config/keybinds.toml"
         },
         "config/grindenchantments/client.json": {
-            "hash": "a263437c100c7116c518fde3e483d192cf113ae9",
+            "hash": "a07212fba5fdc36380195fbca7a98dc960a0e402",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/grindenchantments/client.json"
         },
         "config/grindenchantments/server.json": {
-            "hash": "73efaad0c7911c0258f3632cc32a471d82bb881b",
+            "hash": "dae46c04005a30684183ad51b458b3138c4898e3",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/grindenchantments/server.json"
         },
         "config/immersive_paintings/client_config.toml": {
-            "hash": "a55da911fd901c2bacebc764c39f207ff90b59ab",
+            "hash": "6eabd4a34b92e5113b1f0c57f9729a25d9927d21",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/immersive_paintings/client_config.toml"
         },
         "config/immersive_paintings/common_config.toml": {
-            "hash": "611dad4d5f8b40170a365c7dfb083f091066f352",
+            "hash": "f6b7c528acbc49701dc342f06544483063665534",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/immersive_paintings/common_config.toml"
         },
         "config/inventoryprofilesnext/inventoryprofiles.json": {
-            "hash": "2c73c9d5efc7256de043a673297e74622f7f38a8",
+            "hash": "d49dc61cf3cd42faf778969547d99b6304230d6a",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/inventoryprofilesnext/inventoryprofiles.json"
         },
         "config/inventoryprofilesnext/villager-trading-config-v2.json": {
-            "hash": "f67c2821150e87df298090d920627ee520109d5c",
+            "hash": "e2593acfcb9d84fa2c050b145242d28cc28fb25f",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/inventoryprofilesnext/villager-trading-config-v2.json"
         },
         "config/inventoryprofilesnext/100.105.60.11&63065/villager-trading-config-v2.json": {
-            "hash": "f67c2821150e87df298090d920627ee520109d5c",
+            "hash": "e2593acfcb9d84fa2c050b145242d28cc28fb25f",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/inventoryprofilesnext/100.105.60.11&63065/villager-trading-config-v2.json"
         },
         "config/inventoryprofilesnext/100.64.180.88/villager-trading-config-v2.json": {
-            "hash": "f67c2821150e87df298090d920627ee520109d5c",
+            "hash": "e2593acfcb9d84fa2c050b145242d28cc28fb25f",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/inventoryprofilesnext/100.64.180.88/villager-trading-config-v2.json"
         },
         "config/inventoryprofilesnext/100.72.37.54/villager-trading-config-v2.json": {
-            "hash": "f67c2821150e87df298090d920627ee520109d5c",
+            "hash": "e2593acfcb9d84fa2c050b145242d28cc28fb25f",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/inventoryprofilesnext/100.72.37.54/villager-trading-config-v2.json"
         },
         "config/inventoryprofilesnext/40.233.107.113/lockSlots.txt": {
@@ -1414,99 +1414,99 @@
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/inventoryprofilesnext/40.233.107.113/lockSlots.txt"
         },
         "config/inventoryprofilesnext/40.233.107.113/prev-villager-trading-config-v2.json": {
-            "hash": "97bef1b4435651ed92640eca7cc57ec9aee0f192",
+            "hash": "806866b8df9d2530e4f51bae1eb3d80cf6bfff2a",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/inventoryprofilesnext/40.233.107.113/prev-villager-trading-config-v2.json"
         },
         "config/inventoryprofilesnext/40.233.107.113/villager-trading-config-v2.json": {
-            "hash": "97bef1b4435651ed92640eca7cc57ec9aee0f192",
+            "hash": "806866b8df9d2530e4f51bae1eb3d80cf6bfff2a",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/inventoryprofilesnext/40.233.107.113/villager-trading-config-v2.json"
         },
         "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json": {
-            "hash": "49bc33f76d76369a7d9268b7fae5de6b94317787",
+            "hash": "2bedb4d58a778b937dd9da01c50a46af9887709b",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
         },
         "config/inventoryprofilesnext/New World/villager-trading-config-v2.json": {
-            "hash": "f67c2821150e87df298090d920627ee520109d5c",
+            "hash": "e2593acfcb9d84fa2c050b145242d28cc28fb25f",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/inventoryprofilesnext/New%20World/villager-trading-config-v2.json"
         },
         "config/inventoryprofilesnext/wick-northwest.gl.joinmc.link/villager-trading-config-v2.json": {
-            "hash": "f67c2821150e87df298090d920627ee520109d5c",
+            "hash": "e2593acfcb9d84fa2c050b145242d28cc28fb25f",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/inventoryprofilesnext/wick-northwest.gl.joinmc.link/villager-trading-config-v2.json"
         },
         "config/jade/hide-blocks.json": {
-            "hash": "5c39b92544bf551a47e5fb5a5b99dbf8d52f0070",
+            "hash": "a503776a467ca75d97916f99bf665dbf64a521a9",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/jade/hide-blocks.json"
         },
         "config/jade/hide-entities.json": {
-            "hash": "d1d7d0a1a5d1fb1f501328cc4e59330c6a0c9349",
+            "hash": "ef2152a130cc5ff42903c76e69c3e4279d94b9e7",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/jade/hide-entities.json"
         },
         "config/jade/jade.json": {
-            "hash": "f82592a8dd8bd4163d85a2066f16fe6d6c5e61aa",
+            "hash": "ae3ef97881081e510963e5d173907f9488880e13",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/jade/jade.json"
         },
         "config/jade/plugins.json": {
-            "hash": "efdf84f530f77a26e4fed3093c6c0741d0daa6a7",
+            "hash": "4200fc6dca26c6d242f8efcb990a5b997fb221ec",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/jade/plugins.json"
         },
         "config/jade/sort-order.json": {
-            "hash": "75e37e4fa3fc13ca97efed6e2b9acd93dfed397a",
+            "hash": "222b7582ed25950d250efdc54f65227958196317",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/jade/sort-order.json"
         },
         "config/l2configs/l2core-client.toml": {
-            "hash": "fddc8fcf7072bb462a23673071c8b9c8ccb544b6",
+            "hash": "be61749bd0b123f2e99a1ed2259b7e6355dd187d",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/l2configs/l2core-client.toml"
         },
         "config/LegendaryMonuments/pedestals.json": {
-            "hash": "a0e54bef3f0cb5cbf50ac400448a432b9617c5f6",
+            "hash": "ae8bf4712f16c6b5d858954dfcc8028597ee1705",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/LegendaryMonuments/pedestals.json"
         },
         "config/mega_showdown/config.json": {
-            "hash": "d2524619f6e3f8006e1421e8da1f4b725a22e2f6",
+            "hash": "d41d94e7ea6f0e8d64d1f70b542163e7881f48c3",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/mega_showdown/config.json"
         },
         "config/NoChatReports/NCR-Client.json": {
-            "hash": "23973f959ed7480f389be16502b3ce56fe6e19ee",
+            "hash": "1493c077473fe3f8a2216a24156d6ccab79de39a",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/NoChatReports/NCR-Client.json"
         },
         "config/NoChatReports/NCR-Common.json": {
-            "hash": "a5a8c6669f71fd6f1e23763cd4603e95ab5d45cf",
+            "hash": "6a83c8b806b818ae23a1976baa52bfc30436206a",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/NoChatReports/NCR-Common.json"
         },
         "config/NoChatReports/NCR-Encryption.json": {
-            "hash": "a15699618f90cfd38424599a1eb2f4c3985f5f04",
+            "hash": "c39b7586c81b8b8f81b3a6ea72475ba9e987d8a2",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/NoChatReports/NCR-Encryption.json"
         },
         "config/NoChatReports/NCR-ServerPreferences.json": {
-            "hash": "d34869d6157cd9f394423c8015e4efa8e512e0b4",
+            "hash": "3c04f45c210048b5e722b294dcc0d9f073374160",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/NoChatReports/NCR-ServerPreferences.json"
         },
         "config/NoChatReports/README.md": {
-            "hash": "340036e1ae56c69fa6e4062fca959b0401f1e14a",
+            "hash": "75d98286a0aa3e180708523c8f582a2d23e590b3",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/NoChatReports/README.md"
         },
         "config/pickupnotifier/pickupnotifier-client.toml": {
-            "hash": "9d0ff551f71c58b5fe12068c446e8c85a7b5019c",
+            "hash": "4982f189fc8040c13eb135ce33aa364492fd788e",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/pickupnotifier/pickupnotifier-client.toml"
         },
         "config/pickupnotifier/pickupnotifier-server.toml": {
-            "hash": "6c39d279d84ac10708e8ef7b85ca32730c9d4228",
+            "hash": "73f7fe02b2106c0240a1c465e542b8a6ba147616",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/pickupnotifier/pickupnotifier-server.toml"
         },
         "config/playerxp/playerxp/playerxp.json": {
-            "hash": "0339c298a42f961d7fdfb8d2795fdabf5d3f10d7",
+            "hash": "57c13da276787fb1f6e142f481e52cced5bd71d1",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/playerxp/playerxp/playerxp.json"
         },
         "config/roughlyenoughitems/collapsible.json5": {
-            "hash": "2a702caaf5a4aa3de641e78ab64e7c08912bfbac",
+            "hash": "d3ddda466e4e5fb9048711c0424c8970d474fc7c",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/roughlyenoughitems/collapsible.json5"
         },
         "config/roughlyenoughitems/config.json5": {
-            "hash": "afab5bd7b3b24ff54f21c623ecad51a0e9afcbc2",
+            "hash": "3bd1742036d326bf8c0e7a58073c533c17b2f069",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/roughlyenoughitems/config.json5"
         },
         "config/roughlyenoughitems/favorites.json5": {
-            "hash": "981fd00e039205c191c2e668796024c130a1e6d3",
+            "hash": "8b027626dcc70839a8532c1d6f4050bd94d35743",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/roughlyenoughitems/favorites.json5"
         },
         "config/roughlyenoughitems/hints.json": {
@@ -1514,27 +1514,27 @@
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/roughlyenoughitems/hints.json"
         },
         "config/roughlyenoughitems/pinyin.properties": {
-            "hash": "e961e306ba1c6a143267b9e6e93976cd2725aa62",
+            "hash": "b827e20a77c795bcfe1fc09186ca6f94ebb7a240",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/roughlyenoughitems/pinyin.properties"
         },
         "config/roughlyenoughitems/pinyin_double.properties": {
-            "hash": "1c33d399817341436e00998cb88ca0693ed41b7b",
+            "hash": "12bfe3e3f7205ae6eba90b86acdc947c8c183437",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/roughlyenoughitems/pinyin_double.properties"
         },
         "config/safepastures/safepastures.json": {
-            "hash": "3f933f5e33ba94a0ab8101379e93aeda9dbd974b",
+            "hash": "34b17c6bab4a4119000933bdaea8f07df3145c4c",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/safepastures/safepastures.json"
         },
         "config/simpletms/main.json": {
-            "hash": "6a3c9a3e97fb21e81eabf110d6340ec4c3a2385f",
+            "hash": "a862afd248d6a92a99f5e26a5acbd845dc21d059",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/simpletms/main.json"
         },
         "config/simpletms/moves/default_tm_moves.json": {
-            "hash": "9b4ddaf6a596773193dcdcf80700b8c0059f8afb",
+            "hash": "57009fc26b5a367a851f97ce898fee109fabfbed",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/simpletms/moves/default_tm_moves.json"
         },
         "config/simpletms/moves/default_tr_moves.json": {
-            "hash": "9b4ddaf6a596773193dcdcf80700b8c0059f8afb",
+            "hash": "57009fc26b5a367a851f97ce898fee109fabfbed",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/simpletms/moves/default_tr_moves.json"
         },
         "config/simpletms/moves/excluded_moves_from_blank_learning.json": {
@@ -1550,67 +1550,67 @@
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/simpletms/moves/excluded_moves_from_tmtr_learning.json"
         },
         "config/simplyswords/gem_powers.toml": {
-            "hash": "149f23459eaf80e5e2905afe36eb9dbfa8340feb",
+            "hash": "6ac665e634e805364d0ebfddc5c2456b96a80181",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/simplyswords/gem_powers.toml"
         },
         "config/simplyswords/general.toml": {
-            "hash": "c81d663dced736a6f059eedfc9d51c03c18540ed",
+            "hash": "7ea0b84d94462fb8493027633111fafa2f8b637a",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/simplyswords/general.toml"
         },
         "config/simplyswords/loot.toml": {
-            "hash": "cb22f6e140c2373890daba4b44958c623c0ed0c5",
+            "hash": "0c57fbf67e681f639bed66cc79615188af8de293",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/simplyswords/loot.toml"
         },
         "config/simplyswords/status_effects.toml": {
-            "hash": "581338c247d3c7929fdde919f20d92f5be74aa47",
+            "hash": "8e947a05adbbe318b7e0d66655d0f0f1f833ad30",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/simplyswords/status_effects.toml"
         },
         "config/simplyswords/unique_effects.toml": {
-            "hash": "a09f1b6bceaaa73bc3e0f4d73aa9d416ee58da16",
+            "hash": "646acaaa0089c0efdd53b3e2bd60eb456d882195",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/simplyswords/unique_effects.toml"
         },
         "config/simplyswords/weapon_attributes.toml": {
-            "hash": "c07d9b450c97c86509f496c750cc52ac64a5ba41",
+            "hash": "32079c22e59e44a6b50f6af7e6624ad1cdcf9ead",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/simplyswords/weapon_attributes.toml"
         },
         "config/sound_physics_remastered/allowed_sounds.properties": {
-            "hash": "cc572b12d61c5eee60c763fa645cb5456d5c7a3f",
+            "hash": "541c067a1d8675b9af1915de06ecccb4feb7650d",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/sound_physics_remastered/allowed_sounds.properties"
         },
         "config/sound_physics_remastered/occlusion.properties": {
-            "hash": "63e8843f243c38bc7aa44d99ce4f562991890350",
+            "hash": "0c39bc1ec4b2ac839c49d38abbded87f25755eb8",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/sound_physics_remastered/occlusion.properties"
         },
         "config/sound_physics_remastered/reflectivity.properties": {
-            "hash": "95feb43eb67757038518212b08739cb39bb9763e",
+            "hash": "f535269c4173ed9c499611b9f595befc02d512cf",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/sound_physics_remastered/reflectivity.properties"
         },
         "config/sound_physics_remastered/soundphysics.properties": {
-            "hash": "8c28f59d92aacab3d3c3c541326039166fad00b7",
+            "hash": "c757b6f8b61063a591b9d967a13309b182f0af83",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/sound_physics_remastered/soundphysics.properties"
         },
         "config/spark/config.json": {
-            "hash": "523b5d6c8bfdb11f9b993c1642df22eef46cbf9d",
+            "hash": "33b6644f61573b11848cde9419529737418e0207",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/spark/config.json"
         },
         "config/spark/tmp/about.txt": {
-            "hash": "a63da50166561c948dc39484f0d88990cdbe29a0",
+            "hash": "4b398e9c25b22a4612d63df48f7468e9eeaa0df2",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/spark/tmp/about.txt"
         },
         "config/spark/tmp-client/about.txt": {
-            "hash": "a63da50166561c948dc39484f0d88990cdbe29a0",
+            "hash": "4b398e9c25b22a4612d63df48f7468e9eeaa0df2",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/spark/tmp-client/about.txt"
         },
         "config/voicechat/category-volumes.properties": {
-            "hash": "c9f8fd05a81e609071657f5c4c27d5cd377c5b12",
+            "hash": "8416bbe0743249676e7ebadf8905f06bc3f7d6ac",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/voicechat/category-volumes.properties"
         },
         "config/voicechat/player-volumes.properties": {
-            "hash": "c77eeb6fb16c2844e9bbcf19667d30c9401212d5",
+            "hash": "7dfbbc24e0f07706c5f2f837c6acb2510e5140ae",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/voicechat/player-volumes.properties"
         },
         "config/voicechat/translations.properties": {
-            "hash": "383e00e7dd0d5f00daa2ffcfd24c939d255dc7e3",
+            "hash": "51ed6d74ce390b2219a85fb3cfdad19c85039d79",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/voicechat/translations.properties"
         },
         "config/voicechat/username-cache.json": {
@@ -1618,95 +1618,95 @@
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/voicechat/username-cache.json"
         },
         "config/voicechat/voicechat-client.properties": {
-            "hash": "e6bb50cf6db16cc8c06db93d2501a6f151cbe082",
+            "hash": "0d6b9c2f6ba5b180193e79eb13f6cc5339be6939",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/voicechat/voicechat-client.properties"
         },
         "config/voicechat/voicechat-server.properties": {
-            "hash": "2e4526a92edddc41095f65eec0e6e98cb74a20a4",
+            "hash": "847e8fe074614ddaff38570ef209968679471c33",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/voicechat/voicechat-server.properties"
         },
         "config/xaero/lib/client.cfg": {
-            "hash": "d25c5fe4e977f05b9991b7d4604556f28a12c323",
+            "hash": "45cccfb3eb8a7a784bd4c29539e5558445f90bcf",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/xaero/lib/client.cfg"
         },
         "config/xaero/lib/common.cfg": {
-            "hash": "6409a6031ee1769c3efeec591837e461009c05f0",
+            "hash": "8ae8d6ea0330bec2c0db28b109a12443708f1e7b",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/xaero/lib/common.cfg"
         },
         "config/xaero/lib/profiles/default.cfg": {
-            "hash": "d56548d3427fa4c41ce35244c74ec3a17a60b418",
+            "hash": "253bac0f5181c8db8e488832c46a8d40018650cf",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/xaero/lib/profiles/default.cfg"
         },
         "config/xaero/lib/server_profiles/default.cfg": {
-            "hash": "d8690d3617355776995b8f29696a1890ada9cec1",
+            "hash": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/xaero/lib/server_profiles/default.cfg"
         },
         "config/xaero/minimap/client.cfg": {
-            "hash": "e78a51802375ead2e25e28b94550e13f18a84547",
+            "hash": "a18a4a75d6f033c35ecde56c14306760715a3a19",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/xaero/minimap/client.cfg"
         },
         "config/xaero/minimap/common.cfg": {
-            "hash": "1d24e863e8cb0ee4b7b68d04c5c8c5de5d6a2ba8",
+            "hash": "de09f45b29b264432b80d34bb0c336bd552fb9ee",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/xaero/minimap/common.cfg"
         },
         "config/xaero/minimap/default_radar_categories_client.json": {
-            "hash": "e64b241b12b576b3a3f7b862766875a0edb975f7",
+            "hash": "3523d6db6b0543a9de55286e914bc748f7fc68d9",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/xaero/minimap/default_radar_categories_client.json"
         },
         "config/xaero/minimap/default_radar_categories_server.json": {
-            "hash": "32d2f312982fe90240c035b2b43fc682b33bb7dc",
+            "hash": "c247867b018103357eb4015059fe209cc562de51",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/xaero/minimap/default_radar_categories_server.json"
         },
         "config/xaero/minimap/profiles/default.cfg": {
-            "hash": "b1d0ff79b6b9ed6a77c8d157f52b9d4abf8ca179",
+            "hash": "8d5af4859d4967e58fbfb9f5ef3541641f452c53",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/xaero/minimap/profiles/default.cfg"
         },
         "config/xaero/minimap/server_profiles/default.cfg": {
-            "hash": "d8690d3617355776995b8f29696a1890ada9cec1",
+            "hash": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/xaero/minimap/server_profiles/default.cfg"
         },
         "config/xaero/world-map/client.cfg": {
-            "hash": "0205a3c06af455e65ce8fe90ecd9e20583229c3d",
+            "hash": "07a1a39efaab7034dd20757c3841bde1534057b4",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/xaero/world-map/client.cfg"
         },
         "config/xaero/world-map/common.cfg": {
-            "hash": "3117b9d5f0c73e2a9b88a77d5e2e82945452be71",
+            "hash": "c3c64f24c8d33940264147473e4a1c8ba5c219ff",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/xaero/world-map/common.cfg"
         },
         "config/xaero/world-map/profiles/default.cfg": {
-            "hash": "8b504ddc98a6e2d63d29399cc75f7e3530de96a2",
+            "hash": "740dfcd18520c804aac5545fd97d26c5f940e3e9",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/xaero/world-map/profiles/default.cfg"
         },
         "config/xaero/world-map/server_profiles/default.cfg": {
-            "hash": "d8690d3617355776995b8f29696a1890ada9cec1",
+            "hash": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/xaero/world-map/server_profiles/default.cfg"
         },
         "config/xray/block_store.json": {
-            "hash": "ca0bd15b6fbd950679b11395baeedbc4b00e0386",
+            "hash": "b4a1f2516e561f030cabac9a4b1ff2d6c3faf582",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/xray/block_store.json"
         },
         "kubejs/README.txt": {
-            "hash": "c0701ed96ab5b51473e918ee67ce61f5875f5b15",
+            "hash": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/kubejs/README.txt"
         },
         "kubejs/client_scripts/main.js": {
-            "hash": "91895debca0e7427f6b5f0c4c03177ae24387711",
+            "hash": "e6f23e21b25a366f2216fbf7da00ed7d34542f20",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/kubejs/client_scripts/main.js"
         },
         "kubejs/config/client.json": {
-            "hash": "bb77cfc3b0252a922efe3000daf39bd7b7f84b02",
+            "hash": "18d170bc6daff2b3c297a920cbb0f35d05d04a73",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/kubejs/config/client.json"
         },
         "kubejs/config/common.json": {
-            "hash": "fe5c34ec8435a438f30f99c46b3d660f4461a1a4",
+            "hash": "72bc0862d970e44dd5075bef3e74110f69d65a7d",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/kubejs/config/common.json"
         },
         "kubejs/config/web_server.json": {
-            "hash": "368618ff53c905b0c3ca3d44d4b7b1c112618063",
+            "hash": "f31cb8e46d092fafeee684aa78814c129cb341e1",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/kubejs/config/web_server.json"
         },
         "kubejs/startup_scripts/main.js": {
-            "hash": "cebb0f71e1d295c16dfacfac9763b31891404684",
+            "hash": "05ec115c372985dc9f77dd2513933aa8e90eba61",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/kubejs/startup_scripts/main.js"
         },
         "mods/777-2.0.0d.jar": {
