@@ -1,9 +1,9 @@
 {
     "version": "1.1.5",
     "files": {
-        "MOOMAMOO I COW.txt": {
+        "baan.txt": {
             "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/MOOMAMOO%20I%20COW.txt"
+            "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/baan.txt"
         },
         "config/accessories.json5": {
             "hash": "a6631fcadcf7e5f4d7b78c1e8f6301a352e9a7b9",
