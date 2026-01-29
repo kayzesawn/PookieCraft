@@ -2879,7 +2879,7 @@
         {
             "name": "Cobblemon-neoforge-1.7.1+1.21.1.jar",
             "path": "mods/Cobblemon-neoforge-1.7.1+1.21.1.jar",
-            "url": "https://github.com/kayzesawn/PookieCraft/raw/main/mods/Cobblemon-neoforge-1.7.1+1.21.1.jar",
+            "url": "https://github.com/kayzesawn/PookieCraft/releases/download/big_files/Cobblemon-neoforge-1.7.1+1.21.1.jar",
             "hash": "8135b55ab1ae2aaaaf6f44883a757f7c5aee3420"
         },
         {
@@ -2903,7 +2903,7 @@
         {
             "name": "CobbleThemes-0.9.3-beta.jar",
             "path": "mods/CobbleThemes-0.9.3-beta.jar",
-            "url": "https://github.com/kayzesawn/PookieCraft/raw/main/mods/CobbleThemes-0.9.3-beta.jar",
+            "url": "https://github.com/kayzesawn/PookieCraft/releases/download/big_files/CobbleThemes-0.9.3-beta.jar",
             "hash": "74d401b4e9b6cc039c974dd3a646bcbda244f8e4"
         },
         {
