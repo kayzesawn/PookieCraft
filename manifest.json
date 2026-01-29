@@ -1,10 +1,6 @@
 {
     "version": "1.1.5",
     "files": {
-        "changelog - Copy.md": {
-            "hash": "ff50416291bdce331783c4657d257df9ad4a7d66",
-            "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/changelog%20-%20Copy.md"
-        },
         "config/accessories.json5": {
             "hash": "a6631fcadcf7e5f4d7b78c1e8f6301a352e9a7b9",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/accessories.json5"
