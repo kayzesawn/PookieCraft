@@ -1,2 +1,0 @@
-- Fixed Mewtwo and Mew models from Legends Untold
-- Introduced Custom Default Options just in case options.txt is removed.
