@@ -2717,6 +2717,10 @@
             "hash": "7288a5f11ffedc72495d0afaca64f2e83f9c9c0f",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/mods/supermartijn642corelib-1.1.19-neoforge-mc1.21.jar"
         },
+        "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar": {
+            "hash": "744394d979b422be560babf9df7a6800ede9ac5b",
+            "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+        },
         "mods/Terralith_1.21.x_v2.5.8.jar": {
             "hash": "bee0cfb1a8cd4bf3d96bccea224fb45d74de9085",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/mods/Terralith_1.21.x_v2.5.8.jar"
