@@ -1,5 +1,5 @@
 {
-    "version": "1.1.6",
+    "version": "1.1.7",
     "files": {
         "config/accessories.json5": {
             "hash": "595250e91e123de26c7542be5042ea1aea5c2392",
@@ -2173,6 +2173,10 @@
             "hash": "800724b0d5b70e26633bb3eb53748547207db67c",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/mods/friendsandfoes-neoforge-4.0.19+mc1.21.1.jar"
         },
+        "mods/ftb-chunks-neoforge-2101.1.13.jar": {
+            "hash": "a02e406679754933a4f39ad89a9ea8b54e90380e",
+            "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/mods/ftb-chunks-neoforge-2101.1.13.jar"
+        },
         "mods/ftb-essentials-neoforge-2101.1.8.jar": {
             "hash": "8daa34d3eacff238293e73d97e26e2335951f468",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/mods/ftb-essentials-neoforge-2101.1.8.jar"
@@ -2181,6 +2185,10 @@
             "hash": "1d9d1dbcdc5a9de7e5353694a69bc506af5609ef",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/mods/ftb-library-neoforge-2101.1.30.jar"
         },
+        "mods/ftb-teams-neoforge-2101.1.9.jar": {
+            "hash": "328e04bf1a445870aacea8fe7637670f84272a8f",
+            "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/mods/ftb-teams-neoforge-2101.1.9.jar"
+        },
         "mods/ftb-ultimine-neoforge-2101.1.12.jar": {
             "hash": "89d0164e70394c416f760de019140329da15edec",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/mods/ftb-ultimine-neoforge-2101.1.12.jar"
@@ -2188,6 +2196,10 @@
         "mods/ftb-xmod-compat-neoforge-21.1.7.jar": {
             "hash": "32bef47834dd829bfa94a7c8922be50d544f333b",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/mods/ftb-xmod-compat-neoforge-21.1.7.jar"
+        },
+        "mods/ftbxaerocompat-neoforge-1.1.2.jar": {
+            "hash": "fc9baf1825fe924a9856b39f90d398d2e9be7a37",
+            "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/mods/ftbxaerocompat-neoforge-1.1.2.jar"
         },
         "mods/fzzy_config-0.7.5+1.21+neoforge.jar": {
             "hash": "81b9e4796cc40a04a6fa0cdf2682b326de726133",
@@ -2504,10 +2516,6 @@
         "mods/oceansdelight-neoforge-1.0.3-1.21.jar": {
             "hash": "f74863b60417876c67f9cb438bc5a059e8e805c2",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/mods/oceansdelight-neoforge-1.0.3-1.21.jar"
-        },
-        "mods/open-parties-and-claims-neoforge-1.21.1-0.25.8.jar": {
-            "hash": "b559696138085bdcf437674f095a4201b2587ddb",
-            "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/mods/open-parties-and-claims-neoforge-1.21.1-0.25.8.jar"
         },
         "mods/optigui-2.3.0-beta.9+1.21.jar": {
             "hash": "9f72bd80779118624138cace74da349b5cf31b6f",

@@ -1,2 +1,2 @@
-- Fixed Mewtwo and Mew models from Legends Untold
-- Introduced Custom Default Options just in case options.txt is removed.
+- Replaced Open Parties and Claims with FTB Chunks (fixed teleport error)
+- Reimplemented FTB Teams
