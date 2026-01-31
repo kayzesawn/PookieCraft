@@ -1,5 +1,5 @@
 {
-    "version": "1.1.7",
+    "version": "1.1.8",
     "files": {
         "config/accessories.json5": {
             "hash": "595250e91e123de26c7542be5042ea1aea5c2392",
@@ -928,10 +928,6 @@
         "config/zoomify.json": {
             "hash": "d9a9878c8753f2580a0b43eb6afd7c6dfec31902",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/zoomify.json"
-        },
-        "config/almostunified/debug.json": {
-            "hash": "63c1d69bc0153384fa20aba9d01ef4bd4dcb2274",
-            "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/config/almostunified/debug.json"
         },
         "config/almostunified/duplicates.json": {
             "hash": "d31969d528c08fb4a6dc4006497bfd1159675024",
@@ -2174,7 +2170,7 @@
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/mods/friendsandfoes-neoforge-4.0.19+mc1.21.1.jar"
         },
         "mods/ftb-chunks-neoforge-2101.1.13.jar": {
-            "hash": "a02e406679754933a4f39ad89a9ea8b54e90380e",
+            "hash": "f13243fb00c36317a906b954d13f674a6c8c1c8e",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/mods/ftb-chunks-neoforge-2101.1.13.jar"
         },
         "mods/ftb-essentials-neoforge-2101.1.8.jar": {
