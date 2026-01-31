@@ -1,5 +1,5 @@
 {
-    "version": "1.1.5",
+    "version": "1.1.6",
     "files": {
         "config/accessories.json5": {
             "hash": "595250e91e123de26c7542be5042ea1aea5c2392",
@@ -2309,9 +2309,9 @@
             "hash": "241b235d44f437d6a7993741ebf8b5cab8a22713",
             "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/mods/LeavesBeGone-v21.1.0-1.21.1-NeoForge.jar"
         },
-        "mods/LegendaryMonuments-7.1-NEOFORGE-CONNECTOR.jar": {
-            "hash": "d6d6b5b6baa50791c422c97d64ee0cc451550d61",
-            "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/mods/LegendaryMonuments-7.1-NEOFORGE-CONNECTOR.jar"
+        "mods/LegendaryMonuments-7.7.1.jar": {
+            "hash": "b71ca3d9ae0cf795ec5ed9a05abc536ff2e02995",
+            "url": "https://raw.githubusercontent.com/kayzesawn/PookieCraft/main/mods/LegendaryMonuments-7.7.1.jar"
         },
         "mods/letsdo-bakery-neoforge-2.1.2.jar": {
             "hash": "a5ae82e339e0d200a77894ad1cdb0de5d5c52698",
