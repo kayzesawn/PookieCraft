@@ -1,2 +1,4 @@
-- Replaced Open Parties and Claims with FTB Chunks (fixed teleport error)
-- Reimplemented FTB Teams
+Added:
+- Dusty Decorations
+- Another Furniture Mod
+- CavsCobbleMons (Virizion model) NOTE: ENABLE IT IN RESOURCEPACKS!
