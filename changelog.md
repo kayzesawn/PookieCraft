@@ -1,4 +1,5 @@
+v1.1.11
 Added:
-- Dusty Decorations
-- Another Furniture Mod
-- CavsCobbleMons (Virizion model) NOTE: ENABLE IT IN RESOURCEPACKS!
+- Paxi for default enabled resourcepacks
+- Pookiecraft Title Screen.
+- Filled World Map up to 10k chunks. (RELOAD ALL REGIONS IN XAERO SETTINGS)
